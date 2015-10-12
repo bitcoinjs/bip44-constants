@@ -31,7 +31,7 @@ Object.keys(constants).forEach(function (coin) {
 Updating
 --------
 
-If you notice that `constants.json` is out of date, just run the `update` script and submit a PR or submit an
+If you notice that `constants.json` is out of date, just run the `./update.sh` script and submit a PR or submit an
 issue to notify us.
 
 
@@ -39,4 +39,3 @@ License
 -------
 
 MIT
-

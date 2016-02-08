@@ -1,7 +1,7 @@
 BIP44 Constants
 ===============
 
-This package provides BIP44 coin constants as found here: http://doc.satoshilabs.com/slips/slip-0044.html
+This package provides BIP44 coin constants as found here: https://github.com/satoshilabs/slips/blob/master/slip-0044.md
 
 You can read more about [BIP44](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki)
 

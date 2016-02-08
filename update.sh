@@ -5,7 +5,7 @@ var fetch = require('node-fetch')
 var fs = require('fs')
 
 var constants = {}
-var url = 'http://doc.satoshilabs.com/slips/slip-0044.html'
+var url = 'https://github.com/satoshilabs/slips/blob/master/slip-0044.md'
 
 fetch(url).then(function (res) {
   return res.text()
@@ -21,7 +21,7 @@ fetch(url).then(function (res) {
     var constant = $(cols[1]).text()
     constants[coin] = constant
   })
-  fs.writeFileSync('./constants.json', JSON.stringify(constants, null, 2))
+  fs.writeFileSync('./constants.json', JSON.stringify(constants, null, 2) + '\n')
 })
 .catch(function (err) {
   console.error(err)

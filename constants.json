@@ -52,5 +52,8 @@
   "Electronic Gulden": "0x8000004e",
   "ClubCoin": "0x8000004f",
   "RichCoin": "0x80000050",
-  "Potcoin": "0x80000051"
+  "Potcoin": "0x80000051",
+  "Quarkcoin": "0x80000052",
+  "Terracoin": "0x80000053",
+  "Gridcoin": "0x80000054"
 }

@@ -3,10 +3,9 @@
   "version": "2.1.0",
   "description": "Bitcoin BIP44 constants.",
   "files": [
-    "constants.json",
-    "index.js"
+    "constants.json"
   ],
-  "main": "index.js",
+  "main": "constants.json",
   "scripts": {
     "test": "standard && node ./test.js"
   },

@@ -11,7 +11,7 @@ fetch(url).then(function (res) {
   return res.text()
 })
 .then(function (body) {
-  $ = cheerio.load(body)
+  var $ = cheerio.load(body)
   $('table tr').each(function (i, el) {
     var cols = $(el).find('td')
     var index = $(cols[0]).text()

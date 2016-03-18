@@ -2,13 +2,16 @@
   "name": "bip44-constants",
   "version": "2.1.0",
   "description": "Bitcoin BIP44 constants.",
-  "main": "index.js",
+  "files": [
+    "constants.json"
+  ],
+  "main": "constants.json",
   "scripts": {
     "test": "standard && node ./test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bitcoinjs/bip44-constants.git"
+    "url": "https://github.com/bitcoinjs/bip44-constants.git"
   },
   "keywords": [
     "bip44",

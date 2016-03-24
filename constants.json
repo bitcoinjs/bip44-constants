@@ -55,5 +55,10 @@
   "Potcoin": "0x80000051",
   "Quarkcoin": "0x80000052",
   "Terracoin": "0x80000053",
-  "Gridcoin": "0x80000054"
+  "Gridcoin": "0x80000054",
+  "Auroracoin": "0x80000055",
+  "IXCoin": "0x80000056",
+  "Gulden": "0x80000057",
+  "BitBean": "0x80000058",
+  "Monero": "0x80000080"
 }

@@ -1,3 +1,7 @@
+2.2.0 / 2016-03-24
+------------------
+- updated constants
+
 2.1.0 / 2016-02-08
 ------------------
 - updated constants URL. See: https://github.com/bitcoinjs/bip44-constants/pull/1

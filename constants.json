@@ -39,6 +39,7 @@
   "Pandacoin": "0x80000025",
   "StartCOIN": "0x80000026",
   "MOIN": "0x80000027",
+  "Expanse": "0x80000028",
   "Argentum": "0x8000002D",
   "Global Currency Reserve": "0x80000031",
   "Novacoin": "0x80000032",
@@ -53,6 +54,7 @@
   "Smileycoin": "0x8000003b",
   "Ether": "0x8000003c",
   "Ether Classic": "0x8000003d",
+  "Pesobit": "0x8000003e",
   "Open Chain": "0x80000040",
   "OKCash": "0x80000045",
   "DogecoinDark": "0x8000004d",
@@ -91,5 +93,12 @@
   "Factom Factoids": "0x80000083",
   "Factom Entry Credits": "0x80000084",
   "Zcash": "0x80000085",
-  "Lisk": "0x80000086"
+  "Lisk": "0x80000086",
+  "Steem": "0x80000087",
+  "ZCoin": "0x80000088",
+  "Rootstock": "0x80000089",
+  "Giftblock": "0x8000008A",
+  "RealPointCoin": "0x8000008B",
+  "LBRY Credits": "0x8000008C",
+  "Rootstock Testnet": "0x800091BE"
 }

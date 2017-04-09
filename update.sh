@@ -18,6 +18,8 @@ fetch(url).then(function (res) {
     if (!index) return // table header
 
     var coin = $(cols[2]).text().replace(/\(.*/, '').trim()
+    if (!coin) return // not defined yet
+
     var constant = $(cols[1]).text()
     constants[coin] = constant
   })

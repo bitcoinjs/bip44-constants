@@ -1,3 +1,7 @@
+3.0.0 / 2017-08-27
+------------------
+- updated constants (semver major since one constant changed)
+
 2.5.0 / 2017-05-27
 ------------------
 - updated constants

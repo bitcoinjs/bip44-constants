@@ -20,8 +20,12 @@ fetch(url).then(function (res) {
     var coin = $(cols[2]).text().replace(/\(.*/, '').trim()
     if (!coin) return // not defined yet
 
+    // https://github.com/bitcoinjs/bip44-constants/pull/7
+    if (coin === 'Link') throw new Error('Check source code')
+
     var constant = $(cols[1]).text()
     constants[coin] = constant
+    if (coin === 'MIX') constants['Link'] = constant
   })
   fs.writeFileSync('./constants.json', JSON.stringify(constants, null, 2) + '\n')
 })

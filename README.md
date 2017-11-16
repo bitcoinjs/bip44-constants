@@ -13,15 +13,15 @@ npm i --save bip44-constants
 
 ## Usage
 ```js
-var constants = require('bip44-constants')
-console.dir(constants)
+const constants = require('bip44-constants')
+console.log(constants)
 
 // iterate through constants
-Object.keys(constants).forEach(function (coin) {
-  var constant = constants[coin]
+Object.keys(constants).forEach(coin => {
+  const constant = constants[coin]
 
-  // you'll proabably want to convert to integer
-  var constantNum = parseInt(constant, 10)
+  // you'll probably want to convert to integer
+  const constantNum = parseInt(constant, 16)
 })
 ```
 

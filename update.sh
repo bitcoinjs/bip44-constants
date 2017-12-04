@@ -27,7 +27,13 @@ fetch(url).then(function (res) {
     constants[coin] = constant
     if (coin === 'MIX') constants['Link'] = constant
   })
-  fs.writeFileSync('./constants.json', JSON.stringify(constants, null, 2) + '\n')
+
+  console.log(`module.exports = {`)
+  let keys = Object.keys(constants)
+  keys.sort().forEach((key, i) => {
+    console.log(`  "${key}": ${constants[key]}${i === keys.length ? '' : ','}`)
+  })
+  console.log(`}`)
 })
 .catch(function (err) {
   console.error(err)

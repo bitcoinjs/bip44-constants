@@ -3,7 +3,7 @@
 
 This package provides BIP44 coin constants as found here: https://github.com/satoshilabs/slips/blob/master/slip-0044.md
 
-You can read more about [BIP44](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki)
+You can read more about [BIP44](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki).
 
 
 ## Install
@@ -25,9 +25,10 @@ Object.keys(constants).forEach(coin => {
 })
 ```
 
-## Updating
-If you notice that `constants.json` is out of date, just run the `./update.sh` script and submit a PR or submit an
-issue to notify us.
+
+## Contributors
+If you notice that `constants.json` is out of date, please run `./update.sh > index.js` and submit a pull request!
+Alternatively,  please submit an issue to notify us that is out of date.
 
 
 ## LICENSE [MIT](LICENSE)

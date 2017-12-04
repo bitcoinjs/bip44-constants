@@ -20,9 +20,12 @@ console.log(constants)
 Object.keys(constants).forEach(coin => {
   const constant = constants[coin]
 
-  // you'll probably want to convert to integer
-  const constantNum = parseInt(constant, 16)
+  // ...
+  console.log(coin, constant)
 })
+
+console.log(constants['Litecoin'])
+// => 2147483650   // equivalent to 0x80000002
 ```
 
 

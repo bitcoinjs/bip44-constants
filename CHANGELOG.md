@@ -1,3 +1,8 @@
+
+4.0.1 / 2017-12-04
+------------------
+- changed constant values to type Number, not type String
+
 3.1.0 / 2017-08-27
 ------------------
 - updated constants

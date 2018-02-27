@@ -130,6 +130,7 @@ module.exports = {
   "Primecoin": 0x80000018,
   "Putincoin": 0x8000007a,
   "Quarkcoin": 0x80000052,
+  "Qvolta": 0x80000328,
   "RaiBlocks": 0x800000a5,
   "RealPointCoin": 0x8000008b,
   "Reddcoin": 0x80000004,

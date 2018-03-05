@@ -17,15 +17,11 @@ fetch(url).then(function (res) {
     var index = $(cols[0]).text()
     if (!index) return // table header
 
-    var coin = $(cols[2]).text().replace(/\(.*/, '').trim()
+    var coin = $(cols[2]).text().trim()
     if (!coin) return // not defined yet
 
-    // https://github.com/bitcoinjs/bip44-constants/pull/7
-    if (coin === 'Link') throw new Error('Check source code')
-
-    var constant = $(cols[1]).text()
+    var constant = $(cols[1]).text().trim()
     constants[coin] = constant
-    if (coin === 'MIX') constants['Link'] = constant
   })
 
   console.log(`module.exports = {`)

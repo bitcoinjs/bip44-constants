@@ -1,3 +1,7 @@
+5.0.0 / 2018-03-05
+------------------
+- using asset symbol as the key as opposed to the asset name
+- updated constants
 
 4.0.1 / 2017-12-04
 ------------------

@@ -187,6 +187,7 @@ module.exports = {
   "TOA": 0x8000009f,
   "TPC": 0x80000036,
   "TRC": 0x80000053,
+  "TRX": 0x800000c3,
   "UBQ": 0x8000006c,
   "UC": 0x800000f7,
   "UNIFY": 0x8000007c,

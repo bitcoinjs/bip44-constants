@@ -24,7 +24,7 @@ Object.keys(constants).forEach(coinSymbol => {
   console.log(coinSymbol, constant)
 })
 
-console.log(constants['Litecoin'])
+console.log(constants['LTC'])
 // => 2147483650   // equivalent to 0x80000002
 ```
 

@@ -17,11 +17,11 @@ const constants = require('bip44-constants')
 console.log(constants)
 
 // iterate through constants
-Object.keys(constants).forEach(coin => {
-  const constant = constants[coin]
+Object.keys(constants).forEach(coinSymbol => {
+  const constant = constants[coinSymbol]
 
   // ...
-  console.log(coin, constant)
+  console.log(coinSymbol, constant)
 })
 
 console.log(constants['Litecoin'])

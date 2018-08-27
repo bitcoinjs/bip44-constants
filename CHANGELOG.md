@@ -1,3 +1,11 @@
+5.2.0 / 2018-08-27
+------------------
+- updated constants
+
+5.1.0 / 2018-07-30
+------------------
+- add TRX constant
+
 5.0.0 / 2018-03-05
 ------------------
 - using asset symbol as the key as opposed to the asset name

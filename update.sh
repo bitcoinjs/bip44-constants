@@ -17,8 +17,15 @@ const fetch = require('node-fetch')
     const coin = $(cols[2]).text().trim()
     if (!coin) return // not defined yet
 
-    const constant = $(cols[1]).text().trim()
-    constants[coin] = constant
+    // turn invisible characters into '?' for visibility when logging
+    const oldConstant = $(cols[1]).text().trim().replace(/[^a-fA-F0-9x]/g, '?')
+    // remove any characters besides 'x' and hex characters
+    const newConstant = oldConstant.normalize('NFKD').replace(/[^a-fA-F0-9x]/g, '')
+    if (newConstant.length !== 10 || !newConstant.match(/^0x[a-fA-F0-9]{8}$/)) {
+      console.error(`"${coin}" is improper format: "${oldConstant}" and we couldn't fix it... Skipping.`)
+      return // constant was improper format
+    }
+    constants[coin] = newConstant
   })
 
   console.log('module.exports = {')

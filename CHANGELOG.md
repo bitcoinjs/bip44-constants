@@ -1,3 +1,8 @@
+6.0.0 / 2018-10-11
+------------------
+- updated / changed constants (`DSH` -> `DASH`) (https://github.com/bitcoinjs/bip44-constants/issues/15)
+- added sanity checks (https://github.com/bitcoinjs/bip44-constants/pull/23)
+
 5.2.0 / 2018-08-27
 ------------------
 - updated constants

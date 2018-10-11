@@ -30,7 +30,7 @@ console.log(constants['LTC'])
 
 
 ## Contributors
-If you notice that `constants.json` is out of date, please run `./update.sh > index.js` and submit a pull request!
+If you notice that `index.js` is out of date, please run `npm run update` and submit a pull request!
 Alternatively,  please submit an issue to notify us that is out of date.
 
 

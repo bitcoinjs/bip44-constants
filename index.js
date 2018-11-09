@@ -342,5 +342,6 @@ module.exports = {
   "ZOOM": 0x80000020,
   "ZRC": 0x8000001b,
   "ZYD": 0x80000067,
+  "PTN": 0x8050544e,
   "kUSD": 0x857ab1e1
 }

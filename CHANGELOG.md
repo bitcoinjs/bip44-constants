@@ -1,3 +1,8 @@
+7.0.0 / 2018-11-12
+------------------
+- change values for PIGGY/SSC
+- add new constants
+
 6.1.0 / 2018-10-25
 ------------------
 - updated constants

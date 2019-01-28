@@ -29,7 +29,8 @@ module.exports = {
   "BCA": 0x800000b9,
   "BCD": 0x800003e7,
   "BCH": 0x80000091,
-  "BCO": 0x80501949,
+  "BCO_0": 0x800000a2, // Bridgecoin
+  "BCO_1": 0x80501949, // BitcoinOre
   "BCS": 0x8000022b,
   "BCX": 0x80000698,
   "BEET": 0x80000320,
@@ -115,7 +116,8 @@ module.exports = {
   "DNR": 0x80000074,
   "DOGE": 0x80000003,
   "DOPE": 0x80000035,
-  "DST": 0x80000dec,
+  "DST_0": 0x80000321, // DSTRA
+  "DST_1": 0x80000dec, // DeStream
   "DXN": 0x800000ed,
   "DYN": 0x80000d35,
   "EAST": 0x80000271,
@@ -193,7 +195,8 @@ module.exports = {
   "KOTO": 0x800001fe,
   "LAX": 0x801a2010,
   "LBC": 0x8000008c,
-  "LBTC": 0x800003e6,
+  "LBTC_0": 0x800003e6, // Lightning Bitcoin
+  "LBTC_1": 0x800006f0, // Liquid BTC
   "LCC": 0x800000c0,
   "LCH": 0x800000bd,
   "LDCN": 0x8000003f,
@@ -291,7 +294,8 @@ module.exports = {
   "RPT": 0x8000008b,
   "RVN": 0x800000af,
   "RYO": 0x80015b38,
-  "SAFE": 0x80001a20,
+  "SAFE_0": 0x80001a20, // SAFE
+  "SAFE_1": 0x80004add, // Safecoin
   "SBC": 0x8000010f,
   "SBTC": 0x800022b8,
   "SDC": 0x80000023,

@@ -15,6 +15,9 @@ const fetch = require('node-fetch')
     const coin = $(cols[2]).text().trim()
     if (!coin) return // not defined yet
 
+    // Used in case of duplicate
+    const description = $(cols[3]).text().trim()
+
     // turn invisible characters into '?' for visibility when logging
     const oldConstant = $(cols[1]).text().trim().replace(/[^a-fA-F0-9x]/g, '?')
     // remove any characters besides 'x' and hex characters
@@ -23,13 +26,30 @@ const fetch = require('node-fetch')
       console.error(`"${coin}" is improper format: "${oldConstant}" and we couldn't fix it... Skipping.`)
       return // constant was improper format
     }
-    constants[coin] = newConstant
+    if (constants[coin]) {
+      console.error(`"${coin}" is a duplicate`)
+      if (!(constants[coin] instanceof Array)) {
+        constants[coin] = [constants[coin], { val: newConstant, desc: description }]
+      } else {
+        constants[coin].push({ val: newConstant, desc: description })
+      }
+    } else {
+      constants[coin] = { val: newConstant, desc: description }
+    }
   })
 
   console.log('module.exports = {')
   const keys = Object.keys(constants)
   keys.sort().forEach((key, i) => {
-    console.log(`  "${key}": ${constants[key]}${i + 1 === keys.length ? '' : ','}`)
+    if (constants[key] instanceof Array) {
+      for (let j = 0; j < constants[key].length; j++) {
+          console.log(`  "${key}_${j}": ${constants[key][j].val}` +
+                      `${i + 1 === keys.length ? '' : ','} ` +
+                      `// ${constants[key][j].desc || 'No Description'}`)
+      }
+    } else {
+      console.log(`  "${key}": ${constants[key].val}${i + 1 === keys.length ? '' : ','}`)
+    }
   })
   console.log('}')
 })().catch((err) => {

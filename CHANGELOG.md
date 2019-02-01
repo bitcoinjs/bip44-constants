@@ -1,3 +1,8 @@
+8.0.0 / 2019-02-01
+------------------
+- change constants from object to 2d array (see README)
+- add new constants
+
 7.0.0 / 2018-11-12
 ------------------
 - change values for PIGGY/SSC

@@ -8,6 +8,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "standard",
+    "lint-fix": "standard --fix",
     "test": "npm run lint",
     "update": "node update.js > index.js"
   },

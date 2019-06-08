@@ -342,6 +342,7 @@ module.exports = [
   [ 0x80000152, "VGO", "VirtualGoodsToken" ],
   [ 0x80000153, "DVT", "DeVault" ],
   [ 0x80000154, "N8V", "N8VCoin" ],
+  [ 0x80000155, "MTNS", "OmotenashiCoin" ],
   [ 0x80000159, "USDP", "USDP" ],
   [ 0x8000015a, "HTDF", "HTDF" ],
   [ 0x8000015e, "ARW", "ArrowChain" ],

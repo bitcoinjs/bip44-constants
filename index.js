@@ -451,6 +451,7 @@ module.exports = [
   [ 0x800001bf, "DIN", "Dinero" ],
   [ 0x800001c2, "XLR", "Solaris" ],
   [ 0x800001c3, "KTS", "Klimatas" ],
+  [ 0x800001c8, "SEELE", "Seele" ],
   [ 0x800001c9, "AE", "æternity" ],
   [ 0x800001d0, "ETI", "EtherInc" ],
   [ 0x800001e8, "VEO", "Amoveo" ],

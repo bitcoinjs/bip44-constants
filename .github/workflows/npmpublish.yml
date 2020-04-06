@@ -3,8 +3,8 @@ name: Publish to NPM
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    # Run once per day at 01:00 UTC
-    - cron:  '*/10 * * * *'
+    # Run once per day at 02:42 UTC
+    - cron:  '42 2 * * *'
 
 jobs:
   publish-npm:

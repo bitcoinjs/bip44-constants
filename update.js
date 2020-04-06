@@ -37,12 +37,12 @@ const fetch = require('node-fetch')
   console.log('module.exports = [')
   constants.forEach((row, i) => {
     let replaceString = '[$1'
-    if (!row[0].match(/^0x[a-fA-F0-9]{8}$/)) replaceString = '["$1"'
-    let rowString = JSON.stringify(row)
-      .replace(/^\["([^"]*)"/, replaceString)
+    if (!row[0].match(/^0x[a-fA-F0-9]{8}$/)) replaceString = '[\'$1\''
+    const rowString = JSON.stringify(row)
+      .replace(/'/g, '\\\'')
+      .replace(/"/g, '\'')
+      .replace(/^\['([^']*)'/, replaceString)
       .replace(/,/g, ', ')
-      .replace(/^\[/, '[ ')
-      .replace(/\]$/, ' ]')
     console.log(`  ${rowString}${i + 1 === constants.length ? '' : ','}`)
   })
   console.log(']')

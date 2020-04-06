@@ -1,0 +1,34 @@
+name: Publish to NPM
+
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    # Run once per day at 01:00 UTC
+    - cron:  '*/10 * * * *'
+
+jobs:
+  publish-npm:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 12
+          registry-url: https://registry.npmjs.org/
+      - run: sudo apt-get install -y expect
+      - run: npm install && rm package-lock.json
+      - run: node update.js > new_index.js
+      - run: if ! [[ $(diff new_index.js index.js) ]]; then echo "No updates." 1>&2; exit 1; fi
+      - run: mv new_index.js index.js
+      - run: npm test
+      - run: git config --global user.email "dummybitcoinjsgabot@example.com"
+      - run: git config --global user.name "Github Actions"
+      - run: git commit -am "Update index.js"
+      - run: npm version patch
+      - run: mkdir -p ~/.ssh
+      - run: echo "${{secrets.deploy_key}}" > ~/.ssh/id_rsa
+      - run: chmod 600 ~/.ssh/id_rsa
+      - run: expect -f npm_login_expect ${{secrets.npm_user}} ${{secrets.npm_pass}} ${{secrets.npm_email}}
+      - run: npm publish
+      - run: git remote add sshorigin git@github.com:bitcoinjs/bip44-constants.git
+      - run: git push sshorigin master --tags

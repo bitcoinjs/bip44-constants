@@ -511,6 +511,7 @@ module.exports = [
   [0x800001fb, 'EARTH', 'EARTH'],
   [0x800001fe, 'KOTO', 'Koto'],
   [0x80000200, 'XRD', 'Radiant'],
+  [0x80000203, 'DNA', 'Idena'],
   [0x80000204, 'VEE', 'Virtual Economy Era'],
   [0x80000206, 'LET', 'Linkeye'],
   [0x80000208, 'BTCV', 'BitcoinVIP'],

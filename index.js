@@ -582,6 +582,7 @@ module.exports = [
   [0x800005fd, 'BEAM', 'Beam'],
   [0x80000650, 'ELF', 'AELF'],
   [0x80000654, 'ATH', 'Atheios'],
+  [0x8000066a, 'NEW', 'Newton'],
   [0x80000698, 'BCX', 'BitcoinX'],
   [0x800006c1, 'XTZ', 'Tezos'],
   [0x800006f0, 'LBTC', 'Liquid BTC'],

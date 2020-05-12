@@ -637,7 +637,7 @@ module.exports = [
   [0x000010f7, 'XYM', 'Symbol'],
   [0x00001480, 'FIC', 'FIC'],
   [0x000014e9, 'HNS', 'Handshake'],
-  [0x800015b3, 'UND', 'Unification'],
+  [0x800015b3, 'FUND', 'Unification'],
   [0x8000167d, 'STX', 'Blockstack'],
   [0x80001720, 'SLU', 'SILUBIUM'],
   [0x800017ac, 'GO', 'GoChain GO'],

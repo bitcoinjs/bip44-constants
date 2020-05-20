@@ -520,6 +520,7 @@ module.exports = [
   [0x80000204, 'VEE', 'Virtual Economy Era'],
   [0x80000205, 'SIERRA', 'SierraCoin'],
   [0x80000206, 'LET', 'Linkeye'],
+  [0x80000207, 'BSC', 'Bitcoin Smart Contract'],
   [0x80000208, 'BTCV', 'BitcoinVIP'],
   [0x80000209, 'ABA', 'Dabacus'],
   [0x8000020c, 'AMS', 'AmsterdamCoin'],

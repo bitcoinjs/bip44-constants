@@ -524,6 +524,7 @@ module.exports = [
   [0x80000208, 'BTCV', 'BitcoinVIP'],
   [0x80000209, 'ABA', 'Dabacus'],
   [0x8000020a, 'SCC', 'StakeCubeCoin'],
+  [0x8000020b, 'EDG', 'Edgeware'],
   [0x8000020c, 'AMS', 'AmsterdamCoin'],
   [0x8000020e, 'BU', 'BUMO'],
   [0x80000210, 'YAP', 'Yapstone'],

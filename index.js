@@ -526,6 +526,7 @@ module.exports = [
   [0x8000020a, 'SCC', 'StakeCubeCoin'],
   [0x8000020b, 'EDG', 'Edgeware'],
   [0x8000020c, 'AMS', 'AmsterdamCoin'],
+  [0x8000020d, 'GOSS', 'GOSSIP Coin'],
   [0x8000020e, 'BU', 'BUMO'],
   [0x80000210, 'YAP', 'Yapstone'],
   [0x80000215, 'PRJ', 'ProjectCoin'],

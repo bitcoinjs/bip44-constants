@@ -530,6 +530,7 @@ module.exports = [
   [0x8000020e, 'BU', 'BUMO'],
   [0x80000210, 'YAP', 'Yapstone'],
   [0x80000215, 'PRJ', 'ProjectCoin'],
+  [0x8000021c, 'SMESH', 'Spacemesh Coin'],
   [0x80000226, 'XDC', 'XinFin.Network'],
   [0x8000022b, 'BCS', 'Bitcoin Smart'],
   [0x8000022d, 'LKR', 'Lkrcoin'],

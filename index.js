@@ -687,7 +687,7 @@ module.exports = [
   [0x80009999, 'AMA', 'Amabig'],
   [0x8000c06e, 'EVE', 'evan.network'],
   [0x8000c0c0, 'STASH', 'STASH'],
-  [0x8000ce10, 'cGLD', 'Celo'],
+  [0x8000ce10, 'CELO', 'Celo'],
   [0x80010000, 'KETH', 'Krypton World'],
   [0x80015b38, 'RYO', 'c0ban'],
   [0x8001869f, 'WICC', 'Waykichain'],

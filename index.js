@@ -528,6 +528,7 @@ module.exports = [
   [0x8000020c, 'AMS', 'AmsterdamCoin'],
   [0x8000020d, 'GOSS', 'GOSSIP Coin'],
   [0x8000020e, 'BU', 'BUMO'],
+  [0x8000020f, 'GRAM', 'GRAM'],
   [0x80000210, 'YAP', 'Yapstone'],
   [0x80000215, 'PRJ', 'ProjectCoin'],
   [0x8000021c, 'SMESH', 'Spacemesh Coin'],

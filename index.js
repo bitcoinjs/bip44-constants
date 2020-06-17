@@ -531,6 +531,7 @@ module.exports = [
   [0x8000020f, 'GRAM', 'GRAM'],
   [0x80000210, 'YAP', 'Yapstone'],
   [0x80000211, 'SCRT', 'Secret Network'],
+  [0x80000212, 'NOVO', 'Novo'],
   [0x80000215, 'PRJ', 'ProjectCoin'],
   [0x8000021c, 'SMESH', 'Spacemesh Coin'],
   [0x80000226, 'XDC', 'XinFin.Network'],

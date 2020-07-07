@@ -532,6 +532,8 @@ module.exports = [
   [0x80000210, 'YAP', 'Yapstone'],
   [0x80000211, 'SCRT', 'Secret Network'],
   [0x80000212, 'NOVO', 'Novo'],
+  [0x80000213, 'GHOST', 'Ghost'],
+  [0x80000214, 'HST', 'HST'],
   [0x80000215, 'PRJ', 'ProjectCoin'],
   [0x8000021a, 'VAL', 'Valorbit'],
   [0x8000021c, 'SMESH', 'Spacemesh Coin'],

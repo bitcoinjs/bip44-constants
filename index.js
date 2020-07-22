@@ -536,6 +536,7 @@ module.exports = [
   [0x80000214, 'HST', 'HST'],
   [0x80000215, 'PRJ', 'ProjectCoin'],
   [0x80000216, 'YOU', 'YOUChain'],
+  [0x80000217, 'XHV', 'Haven Protocol'],
   [0x8000021a, 'VAL', 'Valorbit'],
   [0x8000021c, 'SMESH', 'Spacemesh Coin'],
   [0x80000226, 'XDC', 'XinFin.Network'],

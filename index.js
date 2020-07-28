@@ -542,6 +542,7 @@ module.exports = [
   [0x8000021a, 'VAL', 'Valorbit'],
   [0x8000021b, 'FLOW', 'Flow'],
   [0x8000021c, 'SMESH', 'Spacemesh Coin'],
+  [0x8000021d, 'SCDO', 'SCDO'],
   [0x80000226, 'XDC', 'XinFin.Network'],
   [0x8000022b, 'BCS', 'Bitcoin Smart'],
   [0x8000022d, 'LKR', 'Lkrcoin'],

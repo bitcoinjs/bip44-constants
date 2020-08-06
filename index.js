@@ -544,6 +544,7 @@ module.exports = [
   [0x8000021c, 'SMESH', 'Spacemesh Coin'],
   [0x8000021d, 'SCDO', 'SCDO'],
   [0x8000021e, 'IQS', 'IQ-Cash'],
+  [0x80000220, 'COINEVO', 'Coinevo'],
   [0x80000226, 'XDC', 'XinFin.Network'],
   [0x8000022b, 'BCS', 'Bitcoin Smart'],
   [0x8000022d, 'LKR', 'Lkrcoin'],

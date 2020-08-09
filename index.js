@@ -546,6 +546,7 @@ module.exports = [
   [0x8000021e, 'IQS', 'IQ-Cash'],
   [0x8000021f, 'BIND', 'Compendia'],
   [0x80000220, 'COINEVO', 'Coinevo'],
+  [0x80000221, 'SCRIBE', 'Scribe'],
   [0x80000226, 'XDC', 'XinFin.Network'],
   [0x8000022b, 'BCS', 'Bitcoin Smart'],
   [0x8000022d, 'LKR', 'Lkrcoin'],

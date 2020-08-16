@@ -549,6 +549,7 @@ module.exports = [
   [0x80000221, 'SCRIBE', 'Scribe'],
   [0x80000222, 'HYN', 'Hyperion'],
   [0x80000226, 'XDC', 'XinFin.Network'],
+  [0x80000228, 'SUM', 'Sumcoin'],
   [0x8000022b, 'BCS', 'Bitcoin Smart'],
   [0x8000022d, 'LKR', 'Lkrcoin'],
   [0x8000022e, 'TAO', 'Tao'],

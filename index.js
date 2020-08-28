@@ -552,6 +552,7 @@ module.exports = [
   [0x80000224, 'BBC', 'BigBang Core'],
   [0x80000225, 'MKF', 'MarketFinance'],
   [0x80000226, 'XDC', 'XinFin.Network'],
+  [0x80000227, 'STR', 'Straightedge'],
   [0x80000228, 'SUM', 'Sumcoin'],
   [0x8000022b, 'BCS', 'Bitcoin Smart'],
   [0x8000022d, 'LKR', 'Lkrcoin'],

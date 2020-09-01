@@ -558,6 +558,7 @@ module.exports = [
   [0x8000022b, 'BCS', 'Bitcoin Smart'],
   [0x8000022d, 'LKR', 'Lkrcoin'],
   [0x8000022e, 'TAO', 'Tao'],
+  [0x80000230, 'DEAL', 'DEAL'],
   [0x80000231, 'NTY', 'Nexty'],
   [0x80000258, 'UTE', 'Unit-e'],
   [0x8000026a, 'SSP', 'SmartShare'],

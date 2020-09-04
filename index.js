@@ -557,6 +557,7 @@ module.exports = [
   [0x80000229, 'HBC', 'HuobiChain'],
   [0x8000022a, 'SPARK', 'Flare Spark'],
   [0x8000022b, 'BCS', 'Bitcoin Smart'],
+  [0x8000022c, 'KTS', 'Kratos'],
   [0x8000022d, 'LKR', 'Lkrcoin'],
   [0x8000022e, 'TAO', 'Tao'],
   [0x80000230, 'DEAL', 'DEAL'],

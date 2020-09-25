@@ -397,7 +397,7 @@ module.exports = [
   [0x80000189, 'HSN', 'Hyper Speed Network'],
   [0x8000018a, 'CRO', 'Crypto.com Chain'],
   [0x8000018b, 'UMBRU', 'Umbru'],
-  [0x8000018c, 'TON', 'TON is dead'],
+  [0x8000018c, 'TON', 'Free TON'],
   [0x8000018d, 'NEAR', 'NEAR Protocol'],
   [0x8000018e, 'XPC', 'XPChain'],
   [0x8000018f, 'ZOC', '01coin'],

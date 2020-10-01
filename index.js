@@ -563,6 +563,8 @@ module.exports = [
   [0x8000022f, 'XWC', 'Whitecoin'],
   [0x80000230, 'DEAL', 'DEAL'],
   [0x80000231, 'NTY', 'Nexty'],
+  [0x80000232, 'TOP', 'TOP NetWork'],
+  [0x80000233, 'STB', 'Stakebird'],
   [0x80000240, 'BPS', 'BitcoinPoS'],
   [0x80000258, 'UTE', 'Unit-e'],
   [0x8000026a, 'SSP', 'SmartShare'],

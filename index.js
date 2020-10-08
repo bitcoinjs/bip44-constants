@@ -566,6 +566,8 @@ module.exports = [
   [0x80000232, 'TOP', 'TOP NetWork'],
   [0x80000233, 'STB', 'Stakebird'],
   [0x80000234, 'AG', 'Agoric'],
+  [0x80000235, 'CICO', 'Coinicles'],
+  [0x80000236, 'IRIS', 'Irisnet'],
   [0x80000240, 'BPS', 'BitcoinPoS'],
   [0x80000258, 'UTE', 'Unit-e'],
   [0x8000026a, 'SSP', 'SmartShare'],

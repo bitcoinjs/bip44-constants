@@ -53,7 +53,7 @@ module.exports = [
   [0x80000031, 'GCR', 'Global Currency Reserve (GCRcoin)'],
   [0x80000032, 'NVC', 'Novacoin'],
   [0x80000033, 'AC', 'Asiacoin'],
-  [0x80000034, 'BTCD', 'Bitcoindark'],
+  [0x80000034, 'BTCD', 'BitcoinDark'],
   [0x80000035, 'DOPE', 'Dopecoin'],
   [0x80000036, 'TPC', 'Templecoin'],
   [0x80000037, 'AIB', 'AIB'],

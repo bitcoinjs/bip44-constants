@@ -585,6 +585,7 @@ module.exports = [
   [0x80000245, 'DUN', 'Dune'],
   [0x80000246, 'DMCH', 'Darmacash'],
   [0x80000247, 'CTC', 'Creditcoin'],
+  [0x80000248, 'KELP', 'Haidai Network'],
   [0x80000258, 'UTE', 'Unit-e'],
   [0x8000026a, 'SSP', 'SmartShare'],
   [0x80000271, 'EAST', 'Eastcoin'],

@@ -587,6 +587,7 @@ module.exports = [
   [0x80000247, 'CTC', 'Creditcoin'],
   [0x80000248, 'KELP', 'Haidai Network'],
   [0x80000249, 'GBCR', 'GoldBCR'],
+  [0x8000024a, 'XDAG', 'XDAG'],
   [0x80000258, 'UTE', 'Unit-e'],
   [0x8000026a, 'SSP', 'SmartShare'],
   [0x80000271, 'EAST', 'Eastcoin'],

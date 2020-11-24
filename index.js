@@ -608,6 +608,7 @@ module.exports = [
   [0x80000300, 'BALLZ', 'Ballzcoin'],
   [0x80000303, 'BR', 'BR'],
   [0x80000309, 'BTW', 'Bitcoin World'],
+  [0x80000313, 'ACA', 'Acala'],
   [0x80000320, 'BEET', 'Beetle Coin'],
   [0x80000321, 'DST', 'DSTRA'],
   [0x80000328, 'QVT', 'Qvolta'],

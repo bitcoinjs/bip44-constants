@@ -592,6 +592,7 @@ module.exports = [
   [0x8000024c, 'SCAP', 'SafeCapital'],
   [0x8000024d, 'TFUEL', 'Theta Fuel'],
   [0x8000024e, 'GTM', 'Gentarium'],
+  [0x8000024f, 'RNL', 'RentalChain'],
   [0x80000258, 'UTE', 'Unit-e'],
   [0x8000026a, 'SSP', 'SmartShare'],
   [0x80000271, 'EAST', 'Eastcoin'],

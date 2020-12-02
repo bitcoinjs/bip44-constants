@@ -630,6 +630,7 @@ module.exports = [
   [0x80000388, '', 'Helium'],
   [0x8000038b, 'FIS', 'StaFi'],
   [0x80000394, 'META', 'Metadium'],
+  [0x80000395, 'FINX', 'Findora'],
   [0x800003a3, 'RUNE', 'THORChain (RUNE)'],
   [0x800003bb, 'LTP', 'LifetionCoin'],
   [0x800003ca, 'TWINS', 'TWINS'],

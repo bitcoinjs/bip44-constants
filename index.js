@@ -635,6 +635,7 @@ module.exports = [
   [0x800003a3, 'RUNE', 'THORChain (RUNE)'],
   [0x800003bb, 'LTP', 'LifetionCoin'],
   [0x800003ca, 'TWINS', 'TWINS'],
+  [0x800003dc, 'XAZAB', 'Xazab core'],
   [0x800003e4, 'OKT', 'OKChain Token'],
   [0x800003e5, 'SUM', 'Solidum'],
   [0x800003e6, 'LBTC', 'Lightning Bitcoin'],

@@ -596,6 +596,8 @@ module.exports = [
   [0x80000250, 'GRIN', 'Grin'],
   [0x80000251, 'MWC', 'MimbleWimbleCoin'],
   [0x80000252, 'DOCK', '[Dock][https://dock.io]'],
+  [0x80000253, 'POLYX', 'Polymesh'],
+  [0x80000254, 'DIVER', 'Divergenti'],
   [0x80000258, 'UTE', 'Unit-e'],
   [0x8000026a, 'SSP', 'SmartShare'],
   [0x80000271, 'EAST', 'Eastcoin'],

@@ -606,6 +606,7 @@ module.exports = [
   [0x8000029b, 'PRKL', 'Perkle'],
   [0x8000029c, 'SSC', 'SelfSell'],
   [0x8000029d, 'GC', 'GateChain'],
+  [0x800002a6, 'Voken', 'Voken'],
   [0x800002ae, 'KAR', 'Karura Network'],
   [0x800002b0, 'CET', 'CoinEx Chain'],
   [0x800002ba, 'VEIL', 'Veil'],

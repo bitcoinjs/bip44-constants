@@ -1,6 +1,6 @@
 {
   "name": "bip44-constants",
-  "version": "8.0.82",
+  "version": "8.0.83",
   "description": "Bitcoin BIP44 constants.",
   "files": [
     "index.js"

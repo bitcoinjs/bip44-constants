@@ -214,7 +214,7 @@ module.exports = [
   [0x800000d2, 'NEET', 'NEETCOIN'],
   [0x800000d3, 'BOPO', 'BopoChain'],
   [0x800000d4, 'OOT', 'Utrum'],
-  [0x800000d5, 'XSPEC', 'Spectrecoin'],
+  [0x800000d5, 'ALIAS', 'Alias'],
   [0x800000d6, 'MONK', 'Monkey Project'],
   [0x800000d7, 'BOXY', 'BoxyCoin'],
   [0x800000d8, 'FLO', 'Flo'],

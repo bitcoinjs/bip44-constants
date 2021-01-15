@@ -752,6 +752,7 @@ module.exports = [
   [0x80002833, 'BTR', 'Bitcoin Rhodium'],
   [0x80002b67, 'ESS', 'Essentia One'],
   [0x80003039, 'IPOS', 'IPOS'],
+  [0x8000312a, 'MINA', 'Mina'],
   [0x80003333, 'BTY', 'BitYuan'],
   [0x80003334, 'YCC', 'Yuan Chain Coin'],
   [0x80003de5, 'SDGO', 'SanDeGo'],

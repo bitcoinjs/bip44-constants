@@ -629,6 +629,7 @@ module.exports = [
   [0x80000334, 'CLO', 'Callisto'],
   [0x8000033f, 'CRUZ', 'cruzbit'],
   [0x80000354, 'DSM', 'Desmos'],
+  [0x80000355, 'PRCY', 'PRCY Coin'],
   [0x80000364, 'IF', 'Infinitefuture'],
   [0x80000373, 'ZBC', 'ZooBC'],
   [0x80000376, 'ADF', 'AD Token'],

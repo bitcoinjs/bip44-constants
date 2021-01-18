@@ -599,6 +599,7 @@ module.exports = [
   [0x80000253, 'POLYX', 'Polymesh'],
   [0x80000254, 'DIVER', 'Divergenti'],
   [0x80000255, 'XEP', 'Electra Protocol'],
+  [0x80000256, 'APN', 'Apron'],
   [0x80000258, 'UTE', 'Unit-e'],
   [0x80000262, 'NOR', 'Noir'],
   [0x8000026a, 'SSP', 'SmartShare'],

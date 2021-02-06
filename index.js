@@ -647,6 +647,7 @@ module.exports = [
   [0x8000039d, 'DIP', 'Dipper Network'],
   [0x800003a3, 'RUNE', 'THORChain (RUNE)'],
   [0x800003bb, 'LTP', 'LifetionCoin'],
+  [0x800003c6, 'MATIC', 'Matic'],
   [0x800003ca, 'TWINS', 'TWINS'],
   [0x800003dc, 'XAZAB', 'Xazab core'],
   [0x800003dd, 'AIOZ', 'AIOZ'],

@@ -622,6 +622,7 @@ module.exports = [
   [0x800002ca, 'BNB', 'Binance'],
   [0x800002cb, 'SIN', 'Sinovate'],
   [0x800002d5, 'MCX', 'MultiCash'],
+  [0x800002db, 'BMK', 'Bitmark'],
   [0x800002eb, 'RAD', 'Centrifuge'],
   [0x80000300, 'BALLZ', 'Ballzcoin'],
   [0x80000303, 'BR', 'BR'],

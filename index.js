@@ -602,6 +602,7 @@ module.exports = [
   [0x80000256, 'APN', 'Apron'],
   [0x80000257, 'TFC', 'Turbo File Coin'],
   [0x80000258, 'UTE', 'Unit-e'],
+  [0x8000025a, 'NC', 'NobodyCash'],
   [0x80000262, 'NOR', 'Noir'],
   [0x8000026a, 'SSP', 'SmartShare'],
   [0x80000271, 'EAST', 'Eastcoin'],

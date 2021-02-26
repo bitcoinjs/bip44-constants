@@ -24,7 +24,7 @@ jobs:
       - run: git config --global user.email "dummybitcoinjsgabot@example.com"
       - run: git config --global user.name "Github Actions"
       - run: git commit -am "Update index.js"
-      - run: npm version patch
+      - run: npm version major
       - run: mkdir -p ~/.ssh
       - run: echo "${{secrets.deploy_key}}" > ~/.ssh/id_rsa
       - run: chmod 600 ~/.ssh/id_rsa

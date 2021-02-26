@@ -627,6 +627,7 @@ module.exports = [
   [0x800002d5, 'MCX', 'MultiCash'],
   [0x800002db, 'BMK', 'Bitmark'],
   [0x800002eb, 'RAD', 'Centrifuge'],
+  [0x800002ee, 'XPRT', 'Persistence'],
   [0x80000300, 'BALLZ', 'Ballzcoin'],
   [0x80000303, 'BR', 'BR'],
   [0x80000309, 'BTW', 'Bitcoin World'],

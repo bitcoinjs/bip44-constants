@@ -595,7 +595,7 @@ module.exports = [
   [0x8000024f, 'RNL', 'RentalChain'],
   [0x80000250, 'GRIN', 'Grin'],
   [0x80000251, 'MWC', 'MimbleWimbleCoin'],
-  [0x80000252, 'DOCK', '[Dock][https://dock.io]'],
+  [0x80000252, 'DOCK', 'Dock'],
   [0x80000253, 'POLYX', 'Polymesh'],
   [0x80000254, 'DIVER', 'Divergenti'],
   [0x80000255, 'XEP', 'Electra Protocol'],

@@ -609,6 +609,7 @@ module.exports = [
   [0x80000271, 'EAST', 'Eastcoin'],
   [0x8000027f, 'BTSG', 'BitSong'],
   [0x80000280, 'LFC', 'Leofcoin'],
+  [0x80000288, 'ZRB', 'Zarb'],
   [0x80000297, 'SFRX', 'EtherGem Sapphire'],
   [0x8000029a, 'ACT', 'Achain'],
   [0x8000029b, 'PRKL', 'Perkle'],

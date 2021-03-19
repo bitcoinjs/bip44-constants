@@ -686,6 +686,7 @@ module.exports = [
   [0x80000479, 'CDY', 'Bitcoin Candy'],
   [0x80000539, 'DFC', 'Defcoin'],
   [0x80000575, 'HYC', 'Hycon'],
+  [0x80000582, 'TENTSLP', 'TENT Simple Ledger Protocol'],
   [0x800005f4, '', 'Taler'],
   [0x800005fd, 'BEAM', 'Beam'],
   [0x80000650, 'ELF', 'AELF'],

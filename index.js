@@ -395,7 +395,7 @@ module.exports = [
   [0x80000187, 'LHD', 'LitecoinHD'],
   [0x80000188, 'CENNZ', 'CENNZnet'],
   [0x80000189, 'HSN', 'Hyper Speed Network'],
-  [0x8000018a, 'CRO', 'Crypto.com Chain'],
+  [0x8000018a, 'CRO', 'Crypto.org Chain'],
   [0x8000018b, 'UMBRU', 'Umbru'],
   [0x8000018c, 'TON', 'Free TON'],
   [0x8000018d, 'NEAR', 'NEAR Protocol'],

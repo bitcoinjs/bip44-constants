@@ -604,6 +604,7 @@ module.exports = [
   [0x80000258, 'UTE', 'Unit-e'],
   [0x80000259, 'MTC', 'Metacoin'],
   [0x8000025a, 'NC', 'NobodyCash'],
+  [0x8000025b, 'XINY', 'Xinyuehu'],
   [0x80000262, 'NOR', 'Noir'],
   [0x8000026a, 'SSP', 'SmartShare'],
   [0x80000271, 'EAST', 'Eastcoin'],

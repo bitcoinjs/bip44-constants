@@ -617,6 +617,7 @@ module.exports = [
   [0x8000029b, 'PRKL', 'Perkle'],
   [0x8000029c, 'SSC', 'SelfSell'],
   [0x8000029d, 'GC', 'GateChain'],
+  [0x800002a5, 'YUNGE', 'Yunge'],
   [0x800002a6, 'Voken', 'Voken'],
   [0x800002a8, 'Evrynet', 'Evrynet'],
   [0x800002ae, 'KAR', 'Karura Network'],

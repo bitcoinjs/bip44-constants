@@ -658,7 +658,7 @@ module.exports = [
   [0x8000037a, 'XSEL', 'Seln'],
   [0x80000383, 'BCHA', 'BCHA'],
   [0x80000384, 'LMO', 'Lumeneo'],
-  [0x80000388, '', 'Helium'],
+  [0x80000388, 'HNT', 'Helium'],
   [0x8000038b, 'FIS', 'StaFi'],
   [0x80000394, 'META', 'Metadium'],
   [0x80000395, 'FRA', 'Findora'],

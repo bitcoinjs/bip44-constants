@@ -678,6 +678,7 @@ module.exports = [
   [0x800003e9, 'TT', 'ThunderCore'],
   [0x800003ea, 'BKT', 'BanKitt'],
   [0x800003f2, 'HT', 'Huobi ECO Chain'],
+  [0x800003fc, 'EVC', 'Evrice'],
   [0x800003ff, 'ONE', 'HARMONY-ONE'],
   [0x80000400, 'ONT', 'Ontology'],
   [0x80000402, 'KEX', 'Kira Exchange Token'],

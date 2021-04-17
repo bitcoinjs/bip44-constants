@@ -782,7 +782,7 @@ module.exports = [
   [0x8000270f, 'GOD', 'Bitcoin God'],
   [0x80002710, 'FO', 'FIBOS'],
   [0x800027f2, 'RTM', 'Raptoreum'],
-  [0x80002833, 'BTR', 'Bitcoin Rhodium'],
+  [0x80002833, 'XRC', 'XRhodium'],
   [0x80002b67, 'ESS', 'Essentia One'],
   [0x80003039, 'IPOS', 'IPOS'],
   [0x8000312a, 'MINA', 'Mina'],

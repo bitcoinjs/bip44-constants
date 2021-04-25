@@ -608,6 +608,7 @@ module.exports = [
   [0x8000025c, 'DYN', 'Dynamo'],
   [0x8000025e, 'STOS', 'Stratos'],
   [0x8000025f, 'TON', 'TON'],
+  [0x80000260, 'TAFT', 'TAFT'],
   [0x80000262, 'NOR', 'Noir'],
   [0x8000026a, 'SSP', 'SmartShare'],
   [0x80000271, 'EAST', 'Eastcoin'],

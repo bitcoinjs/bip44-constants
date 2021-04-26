@@ -822,6 +822,7 @@ module.exports = [
   [0x8000c0c0, 'STASH', 'STASH'],
   [0x8000ce10, 'CELO', 'Celo'],
   [0x80010000, 'KETH', 'Krypton World'],
+  [0x80011177, 'GWL', 'Gewel'],
   [0x80012fd1, 'ZYN', 'Wethio'],
   [0x80015b38, 'RYO', 'c0ban'],
   [0x8001869f, 'WICC', 'Waykichain'],

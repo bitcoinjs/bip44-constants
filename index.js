@@ -610,6 +610,7 @@ module.exports = [
   [0x8000025f, 'TON', 'TON'],
   [0x80000260, 'TAFT', 'TAFT'],
   [0x80000262, 'NOR', 'Noir'],
+  [0x80000265, 'WCN', 'Widecoin'],
   [0x8000026a, 'SSP', 'SmartShare'],
   [0x80000271, 'EAST', 'Eastcoin'],
   [0x8000027f, 'BTSG', 'BitSong'],

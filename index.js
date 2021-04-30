@@ -731,6 +731,7 @@ module.exports = [
   [0x800007c5, 'HODL', 'HOdlcoin'],
   [0x800007c6, 'PHL', 'Placeholders'],
   [0x800007c7, 'SC', 'Sia'],
+  [0x800007cc, 'MYT', 'Mineyourtime'],
   [0x800007cd, 'POLIS', 'Polis'],
   [0x800007ce, 'XMCC', 'Monoeci'],
   [0x800007cf, 'COLX', 'ColossusXT'],

@@ -606,6 +606,7 @@ module.exports = [
   [0x8000025a, 'NC', 'NobodyCash'],
   [0x8000025b, 'XINY', 'Xinyuehu'],
   [0x8000025c, 'DYN', 'Dynamo'],
+  [0x8000025d, 'BUFS', 'Buffer'],
   [0x8000025e, 'STOS', 'Stratos'],
   [0x8000025f, 'TON', 'TON'],
   [0x80000260, 'TAFT', 'TAFT'],

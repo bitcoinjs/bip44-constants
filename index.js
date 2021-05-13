@@ -778,6 +778,7 @@ module.exports = [
   [0x800014e9, 'HNS', 'Handshake'],
   [0x800015b3, 'FUND', 'Unification'],
   [0x8000167d, 'STX', 'Blockstack'],
+  [0x80001707, 'VOW', 'VowChain VOW'],
   [0x80001720, 'SLU', 'SILUBIUM'],
   [0x800017ac, 'GO', 'GoChain GO'],
   [0x80001a0a, 'BPA', 'Bitcoin Pizza'],

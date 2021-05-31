@@ -613,6 +613,7 @@ module.exports = [
   [0x80000262, 'NOR', 'Noir'],
   [0x80000265, 'WCN', 'Widecoin'],
   [0x8000026a, 'SSP', 'SmartShare'],
+  [0x8000026b, 'DEI', 'DeimosX'],
   [0x80000271, 'EAST', 'Eastcoin'],
   [0x8000027f, 'BTSG', 'BitSong'],
   [0x80000280, 'LFC', 'Leofcoin'],

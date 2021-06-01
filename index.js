@@ -843,6 +843,7 @@ module.exports = [
   [0x80011000, 'GENOM', 'GENOM'],
   [0x8003c301, 'ATS', 'ARTIS sigma1'],
   [0x8004cb2f, 'PI', 'Pi Network'],
+  [0x80051615, '3333', 'Pi Value Consensus'],
   [0x80067932, 'X42', 'x42'],
   [0x800a2c2a, 'VITE', 'Vite'],
   [0x800d9038, 'SEA', 'Second Exchange Alliance'],

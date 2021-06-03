@@ -868,5 +868,6 @@ module.exports = [
   [0x857ab1e1, 'kUSD', 'kUSD'],
   [0x85f5e0fd, 'EQ', 'EQ'],
   [0x85f5e0fe, 'FLUID', 'Fluid Chains'],
-  [0x85f5e0ff, 'QKC', 'QuarkChain']
+  [0x85f5e0ff, 'QKC', 'QuarkChain'],
+  [0xa4465644, 'FVDC', 'ForumCoin']
 ]

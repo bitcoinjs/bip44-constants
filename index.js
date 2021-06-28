@@ -755,6 +755,7 @@ module.exports = [
   [0x80000800, 'MCASH', 'MCashChain'],
   [0x80000801, 'TRUE', 'TrueChain'],
   [0x80000840, 'IoTE', 'IoTE'],
+  [0x80000859, 'XRG', 'Ergon'],
   [0x800008ad, 'ASK', 'ASK'],
   [0x800008fd, 'QTUM', 'QTUM'],
   [0x800008fe, 'ETP', 'Metaverse'],

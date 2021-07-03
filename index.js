@@ -667,6 +667,8 @@ module.exports = [
   [0x80000348, 'PNY', 'Peony'],
   [0x80000349, 'BECN', 'Beacon'],
   [0x8000034a, 'MONK', 'Monk'],
+  [0x8000034b, 'SAGA', 'CryptoSaga'],
+  [0x8000034c, 'SUV', 'Suvereno'],
   [0x80000354, 'DSM', 'Desmos'],
   [0x80000355, 'PRCY', 'PRCY Coin'],
   [0x80000362, 'MOB', 'MobileCoin'],

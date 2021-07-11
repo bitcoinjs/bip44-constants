@@ -728,6 +728,7 @@ module.exports = [
   [0x80000698, 'BCX', 'BitcoinX'],
   [0x800006c1, 'XTZ', 'Tezos'],
   [0x800006f0, 'LBTC', 'Liquid BTC'],
+  [0x800006f1, 'BBP', 'Biblepay'],
   [0x800006F8, 'JPYS', 'JPY Stablecoin'],
   [0x80000717, 'ADA', 'Cardano'],
   [0x80000743, 'TES', 'Teslacoin'],

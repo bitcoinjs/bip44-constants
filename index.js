@@ -700,6 +700,7 @@ module.exports = [
   [0x800003e8, 'BTN', 'Bitcoin New'],
   [0x800003e9, 'TT', 'ThunderCore'],
   [0x800003ea, 'BKT', 'BanKitt'],
+  [0x800003eb, 'NODL', 'Nodle'],
   [0x800003f2, 'HT', 'Huobi ECO Chain'],
   [0x800003fc, 'EVC', 'Evrice'],
   [0x800003fe, 'XRD', 'Radix DLT'],

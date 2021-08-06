@@ -612,6 +612,8 @@ module.exports = [
   [0x80000260, 'TAFT', 'TAFT'],
   [0x80000261, 'HYDRA', 'HYDRA'],
   [0x80000262, 'NOR', 'Noir'],
+  [0x80000263, '', 'Manta Network Private Asset'],
+  [0x80000264, '', 'Calamari Network Private Asset'],
   [0x80000265, 'WCN', 'Widecoin'],
   [0x8000026a, 'SSP', 'SmartShare'],
   [0x8000026b, 'DEI', 'DeimosX'],

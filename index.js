@@ -725,6 +725,7 @@ module.exports = [
   [0x80000479, 'CDY', 'Bitcoin Candy'],
   [0x80000492, 'HOO', 'Hoo Smart Chain'],
   [0x800004d2, 'ALPH', 'Alephium'],
+  [0x80000505, 'MOVR', 'Moonriver'],
   [0x80000539, 'DFC', 'Defcoin'],
   [0x80000575, 'HYC', 'Hycon'],
   [0x80000582, 'TENTSLP', 'TENT Simple Ledger Protocol'],

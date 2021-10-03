@@ -692,6 +692,7 @@ module.exports = [
   [0x80000384, 'LMO', 'Lumeneo'],
   [0x80000388, 'HNT', 'Helium'],
   [0x8000038b, 'FIS', 'StaFi'],
+  [0x8000038d, 'SAAGE', 'Saage'],
   [0x80000394, 'META', 'Metadium'],
   [0x80000395, 'FRA', 'Findora'],
   [0x8000039d, 'DIP', 'Dipper Network'],

@@ -660,6 +660,7 @@ module.exports = [
   [0x80000332, 'VET', 'VeChain Token'],
   [0x80000334, 'CLO', 'Callisto'],
   [0x80000336, 'BDB', 'BigchainDB'],
+  [0x8000033c, 'CCN', 'ComputeCoin'],
   [0x8000033f, 'CRUZ', 'cruzbit'],
   [0x80000340, 'SAPP', 'Sapphire'],
   [0x80000341, '777', 'Jackpot'],

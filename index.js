@@ -615,6 +615,7 @@ module.exports = [
   [0x80000263, '', 'Manta Network Private Asset'],
   [0x80000264, '', 'Calamari Network Private Asset'],
   [0x80000265, 'WCN', 'Widecoin'],
+  [0x80000266, 'OPT', 'Optimistic Ethereum'],
   [0x80000267, 'PSWAP', 'PolkaSwap'],
   [0x80000268, 'VAL', 'Validator'],
   [0x80000269, 'XOR', 'Sora'],

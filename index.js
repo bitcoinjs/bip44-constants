@@ -623,6 +623,7 @@ module.exports = [
   [0x8000026b, 'DEI', 'DeimosX'],
   [0x80000270, 'NOBL', 'Nobility'],
   [0x80000271, 'EAST', 'Eastcoin'],
+  [0x80000274, 'LORE', 'Gitopia'],
   [0x8000027f, 'BTSG', 'BitSong'],
   [0x80000280, 'LFC', 'Leofcoin'],
   [0x80000288, 'ZRB', 'Zarb'],

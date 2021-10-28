@@ -826,7 +826,7 @@ module.exports = [
   [0x80002019, 'KLAY', 'KLAY'],
   [0x80002093, 'BTQ', 'BitcoinQuark'],
   [0x800020fc, 'XCH', 'Chia'],
-  [0x80002148, 'XCR', 'ChiaRose'],
+  [0x80002148, '---', 'reserved'],
   [0x800022b8, 'SBTC', 'Super Bitcoin'],
   [0x80002304, 'NULS', 'NULS'],
   [0x80002327, 'BTP', 'Bitcoin Pay'],

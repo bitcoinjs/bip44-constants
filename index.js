@@ -640,6 +640,7 @@ module.exports = [
   [0x800002b0, 'CET', 'CoinEx Chain'],
   [0x800002ba, 'VEIL', 'Veil'],
   [0x800002bc, 'XDAI', 'xDai'],
+  [0x800002c3, 'MCOIN', 'Moneta Coin'],
   [0x800002c7, 'CHC', 'Chaincoin'],
   [0x800002c9, 'XTL', 'Katal Chain'],
   [0x800002ca, 'BNB', 'Binance'],

@@ -721,6 +721,7 @@ module.exports = [
   [0x800003ef, 'FTM', 'Fantom'],
   [0x800003f2, 'HT', 'Huobi ECO Chain'],
   [0x800003f3, 'ELV', 'Eluvio'],
+  [0x800003f5, 'BIC', 'Beincrypto'],
   [0x800003fc, 'EVC', 'Evrice'],
   [0x800003fe, 'XRD', 'Radix DLT'],
   [0x800003ff, 'ONE', 'HARMONY-ONE'],

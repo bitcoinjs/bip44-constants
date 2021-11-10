@@ -688,6 +688,7 @@ module.exports = [
   [0x80000355, 'PRCY', 'PRCY Coin'],
   [0x80000362, 'MOB', 'MobileCoin'],
   [0x80000364, 'IF', 'Infinitefuture'],
+  [0x80000370, 'LUM', 'Lum Network'],
   [0x80000373, 'ZBC', 'ZooBC'],
   [0x80000376, 'ADF', 'AD Token'],
   [0x80000378, 'NEO', 'NEO'],

@@ -621,6 +621,7 @@ module.exports = [
   [0x80000269, 'XOR', 'Sora'],
   [0x8000026a, 'SSP', 'SmartShare'],
   [0x8000026b, 'DEI', 'DeimosX'],
+  [0x8000026c, 'AXL', 'Axelar'],
   [0x80000270, 'NOBL', 'Nobility'],
   [0x80000271, 'EAST', 'Eastcoin'],
   [0x80000274, 'LORE', 'Gitopia'],

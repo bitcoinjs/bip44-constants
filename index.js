@@ -627,6 +627,7 @@ module.exports = [
   [0x80000274, 'LORE', 'Gitopia'],
   [0x8000027f, 'BTSG', 'BitSong'],
   [0x80000280, 'LFC', 'Leofcoin'],
+  [0x80000283, 'AZERO', 'Aleph Zero'],
   [0x80000288, 'ZRB', 'Zarb'],
   [0x80000294, 'PIRATE', 'PirateCash'],
   [0x80000297, 'SFRX', 'EtherGem Sapphire'],

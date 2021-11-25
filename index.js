@@ -660,6 +660,7 @@ module.exports = [
   [0x80000309, 'BTW', 'Bitcoin World'],
   [0x80000312, 'UIDD', 'UIDD'],
   [0x80000313, 'ACA', 'Acala'],
+  [0x80000314, 'BNC', 'Bifrost'],
   [0x80000315, 'TAU', 'Lamden'],
   [0x80000320, 'BEET', 'Beetle Coin'],
   [0x80000321, 'DST', 'DSTRA'],

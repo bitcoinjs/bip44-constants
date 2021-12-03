@@ -654,6 +654,7 @@ module.exports = [
   [0x800002cc, 'DLN', 'Delion'],
   [0x800002d5, 'MCX', 'MultiCash'],
   [0x800002db, 'BMK', 'Bitmark'],
+  [0x800002de, 'DENTX', 'DENTNet'],
   [0x800002e1, 'ATOP', '[Financial Blockchain]'],
   [0x800002eb, 'RAD', 'Centrifuge'],
   [0x800002ee, 'XPRT', 'Persistence'],

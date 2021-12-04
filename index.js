@@ -766,6 +766,7 @@ module.exports = [
   [0x800006fd, 'VEGA', 'Vega Protocol'],
   [0x80000717, 'ADA', 'Cardano'],
   [0x80000743, 'TES', 'Teslacoin'],
+  [0x80000760, 'ZTX', 'Zetrix'],
   [0x8000076b, 'XEC', 'eCash token'],
   [0x8000076d, 'CLC', 'Classica'],
   [0x8000077f, 'VIPS', 'VIPSTARCOIN'],

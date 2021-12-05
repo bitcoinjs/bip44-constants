@@ -166,7 +166,7 @@ module.exports = [
   [0x800000a2, 'BCO', 'Bridgecoin'],
   [0x800000a3, 'ELLA', 'Ellaism'],
   [0x800000a4, 'PIRL', 'Pirl'],
-  [0x800000a5, 'NANO', 'Nano'],
+  [0x800000a5, 'XNO', 'Nano'],
   [0x800000a6, 'VIVO', 'Vivo'],
   [0x800000a7, 'FRST', 'Firstcoin'],
   [0x800000a8, 'HNC', 'Helleniccoin'],

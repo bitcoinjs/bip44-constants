@@ -1,6 +1,6 @@
 {
   "name": "bip44-constants",
-  "version": "85.0.0",
+  "version": "86.0.0",
   "description": "Bitcoin BIP44 constants.",
   "files": [
     "index.js"
@@ -21,7 +21,8 @@
     "litecoin",
     "dogecoin",
     "blackcoin",
-    "trezor"
+    "trezor",
+    "bdcash"
   ],
   "author": "JP Richardson",
   "license": "MIT",

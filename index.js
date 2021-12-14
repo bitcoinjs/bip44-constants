@@ -731,6 +731,7 @@ module.exports = [
   [0x800003ea, 'BKT', 'BanKitt'],
   [0x800003eb, 'NODL', 'Nodle'],
   [0x800003ef, 'FTM', 'Fantom'],
+  [0x800003f0, 'RPG', 'RPG'],
   [0x800003f2, 'HT', 'Huobi ECO Chain'],
   [0x800003f3, 'ELV', 'Eluvio'],
   [0x800003f5, 'BIC', 'Beincrypto'],

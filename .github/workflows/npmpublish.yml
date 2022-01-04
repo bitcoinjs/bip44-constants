@@ -15,7 +15,6 @@ jobs:
         with:
           node-version: 12
           registry-url: https://registry.npmjs.org/
-      - run: sudo apt-get install -y expect
       - run: npm install && rm package-lock.json
       - run: node update.js > new_index.js
       - run: if ! [[ $(diff new_index.js index.js) ]]; then echo "No updates." 1>&2; exit 1; fi
@@ -28,7 +27,7 @@ jobs:
       - run: mkdir -p ~/.ssh
       - run: echo "${{secrets.deploy_key}}" > ~/.ssh/id_rsa
       - run: chmod 600 ~/.ssh/id_rsa
-      - run: expect -f npm_login_expect ${{secrets.npm_user}} ${{secrets.npm_pass}} ${{secrets.npm_email}}
+      - run: echo //registry.npmjs.org/:_authToken=${{secrets.npm_auto_key}} > ~/.npmrc
       - run: npm publish
       - run: git remote add sshorigin git@github.com:bitcoinjs/bip44-constants.git
       - run: git push sshorigin master --tags

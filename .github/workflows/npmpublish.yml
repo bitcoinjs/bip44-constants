@@ -27,7 +27,8 @@ jobs:
       - run: mkdir -p ~/.ssh
       - run: echo "${{secrets.deploy_key}}" > ~/.ssh/id_rsa
       - run: chmod 600 ~/.ssh/id_rsa
-      - run: echo //registry.npmjs.org/:_authToken=${{secrets.npm_auto_key}} > ~/.npmrc
       - run: npm publish
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.npm_auto_key }}
       - run: git remote add sshorigin git@github.com:bitcoinjs/bip44-constants.git
       - run: git push sshorigin master --tags

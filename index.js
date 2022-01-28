@@ -860,7 +860,7 @@ module.exports = [
   [0x80002304, 'NULS', 'NULS'],
   [0x80002327, 'BTP', 'Bitcoin Pay'],
   [0x80002328, 'AVAX', 'Avalanche'],
-  [0x80002329, 'ARB', 'Arbitrum'],
+  [0x80002329, 'ARB1', 'Arbitrum'],
   [0x8000232a, 'BOBA', 'Boba'],
   [0x8000232b, 'LOOP', 'Loopring'],
   [0x8000232c, 'STARK', 'Starkware'],

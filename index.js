@@ -632,6 +632,7 @@ module.exports = [
   [0x80000274, 'LORE', 'Gitopia'],
   [0x80000275, 'FNR', 'Fincor'],
   [0x80000276, 'NEXUS', 'Nexus'],
+  [0x8000027b, 'POKT', 'Pocket Network'],
   [0x8000027f, 'BTSG', 'BitSong'],
   [0x80000280, 'LFC', 'Leofcoin'],
   [0x80000283, 'AZERO', 'Aleph Zero'],

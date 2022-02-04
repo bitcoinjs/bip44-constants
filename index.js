@@ -705,6 +705,7 @@ module.exports = [
   [0x8000034e, 'OWO', 'OneWorld Coin'],
   [0x8000034f, 'PEPS', 'PEPS Coin'],
   [0x80000350, 'BIR', 'Birake'],
+  [0x80000351, 'MOBIC', 'MobilityCoin'],
   [0x80000354, 'DSM', 'Desmos'],
   [0x80000355, 'PRCY', 'PRCY Coin'],
   [0x80000362, 'MOB', 'MobileCoin'],

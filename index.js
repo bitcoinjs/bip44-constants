@@ -833,6 +833,7 @@ module.exports = [
   [0x80000b7d, 'BND', 'Blocknode'],
   [0x80000ccc, 'CCC', 'CodeChain'],
   [0x80000d31, 'ROI', 'ROIcoin'],
+  [0x80000e11, 'CY', 'Cybits'],
   [0x80000fc8, 'FC8', 'FCH Network'],
   [0x80001000, 'YEE', 'YeeCo'],
   [0x8000107a, 'IOTA', 'IOTA'],

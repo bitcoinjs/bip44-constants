@@ -908,6 +908,7 @@ module.exports = [
   [0x8000c06e, 'EVE', 'evan.network'],
   [0x8000c0c0, 'STASH', 'STASH'],
   [0x8000ce10, 'CELO', 'Celo'],
+  [0x8000f0b0, 'TH', 'TianHe'],
   [0x80010000, 'KETH', 'Krypton World'],
   [0x80010f2c, 'GRLC', 'Garlicoin'],
   [0x80011177, 'GWL', 'Gewel'],

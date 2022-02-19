@@ -662,6 +662,7 @@ module.exports = [
   [0x800002ca, 'BNB', 'Binance'],
   [0x800002cb, 'SIN', 'Sinovate'],
   [0x800002cc, 'DLN', 'Delion'],
+  [0x800002cd, 'BONTE', 'Bontecoin'],
   [0x800002d5, 'MCX', 'MultiCash'],
   [0x800002db, 'BMK', 'Bitmark'],
   [0x800002de, 'DENTX', 'DENTNet'],

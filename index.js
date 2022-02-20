@@ -327,7 +327,7 @@ module.exports = [
   [0x80000143, 'ZER', 'Zero'],
   [0x80000144, 'EBST', 'eBoost'],
   [0x80000145, 'SHARD', 'Shard'],
-  [0x80000146, 'LINDA', 'Linda Coin'],
+  [0x80000146, 'MRX', 'Metrix Coin'],
   [0x80000147, 'CMM', 'Commercium'],
   [0x80000148, 'BLOCK', 'Blocknet'],
   [0x80000149, 'AUDAX', 'AUDAX'],

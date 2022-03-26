@@ -856,6 +856,7 @@ module.exports = [
   [0x8000138e, 'SBC', 'Senior Block Coin'],
   [0x80001480, 'FIC', 'FIC'],
   [0x800014e9, 'HNS', 'Handshake'],
+  [0x8000151c, 'ISK', 'ISKRA'],
   [0x800015b3, 'FUND', 'Unification'],
   [0x8000167d, 'STX', 'Blockstack'],
   [0x80001707, 'VOW', 'VowChain VOW'],

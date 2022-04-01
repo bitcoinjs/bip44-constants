@@ -851,6 +851,7 @@ module.exports = [
   [0x80000fc8, 'FC8', 'FCH Network'],
   [0x80001000, 'YEE', 'YeeCo'],
   [0x8000107a, 'IOTA', 'IOTA'],
+  [0x8000107b, 'SMR', 'Shimmer'],
   [0x80001092, 'AXE', 'Axe'],
   [0x800010f7, 'XYM', 'Symbol'],
   [0x8000138e, 'SBC', 'Senior Block Coin'],

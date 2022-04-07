@@ -942,6 +942,7 @@ module.exports = [
   [0x80067932, 'X42', 'x42'],
   [0x800a2c2a, 'VITE', 'Vite'],
   [0x800d9038, 'SEA', 'Second Exchange Alliance'],
+  [0x80100000, 'AMAX', 'Armonia Meta Chain'],
   [0x8011df89, 'ILT', 'iOlite'],
   [0x8014095a, 'ETHO', 'Ether-1'],
   [0x80140adc, 'XERO', 'Xerom'],

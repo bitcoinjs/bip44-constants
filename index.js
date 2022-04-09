@@ -797,6 +797,7 @@ module.exports = [
   [0x800006f8, 'JPYS', 'JPY Stablecoin'],
   [0x800006fd, 'VEGA', 'Vega Protocol'],
   [0x80000717, 'ADA', 'Cardano'],
+  [0x8000071a, 'CUBE', 'Cube Chain Native Token'],
   [0x80000743, 'TES', 'Teslacoin'],
   [0x80000760, 'ZTX', 'Zetrix'],
   [0x8000076b, 'XEC', 'eCash token'],

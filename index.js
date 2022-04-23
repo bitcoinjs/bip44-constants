@@ -891,7 +891,7 @@ module.exports = [
   [0x80002329, 'ARB1', 'Arbitrum'],
   [0x8000232a, 'BOBA', 'Boba'],
   [0x8000232b, 'LOOP', 'Loopring'],
-  [0x8000232c, 'STARK', 'Starkware'],
+  [0x8000232c, 'STRK', 'StarkNet'],
   [0x8000232d, 'AVAXC', 'Avalanche C-Chain'],
   [0x8000232e, 'BSC', 'Binance Smart Chain'],
   [0x80002645, 'NRG', 'Energi'],

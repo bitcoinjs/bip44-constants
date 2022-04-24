@@ -925,6 +925,7 @@ module.exports = [
   [0x80008888, 'BTT', 'ByteTrade'],
   [0x80009468, 'FXTC', 'FixedTradeCoin'],
   [0x80009999, 'AMA', 'Amabig'],
+  [0x8000a455, 'FACT', 'FACT0RN'],
   [0x8000a814, 'AXIV', 'AXIV'],
   [0x8000c06e, 'EVE', 'evan.network'],
   [0x8000c0c0, 'STASH', 'STASH'],

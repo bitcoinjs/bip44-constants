@@ -638,6 +638,8 @@ module.exports = [
   [0x8000027c, 'EMIT', 'EMIT'],
   [0x8000027f, 'BTSG', 'BitSong'],
   [0x80000280, 'LFC', 'Leofcoin'],
+  [0x80000281, 'KCS', 'KuCoin Shares'],
+  [0x80000282, 'KCC', 'KuCoin Community Chain'],
   [0x80000283, 'AZERO', 'Aleph Zero'],
   [0x80000286, 'XLN', 'Lunarium'],
   [0x80000288, 'ZRB', 'Zarb'],

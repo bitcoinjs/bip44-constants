@@ -772,6 +772,7 @@ module.exports = [
   [0x800003fe, 'XRD', 'Radix DLT'],
   [0x800003ff, 'ONE', 'HARMONY-ONE'],
   [0x80000400, 'ONT', 'Ontology'],
+  [0x80000401, 'CZZ', 'Classzz'],
   [0x80000402, 'KEX', 'Kira Exchange Token'],
   [0x80000403, 'MCM', 'Mochimo'],
   [0x80000408, 'BTCR', 'BTCR'],

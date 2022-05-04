@@ -786,6 +786,7 @@ module.exports = [
   [0x80000492, 'HOO', 'Hoo Smart Chain'],
   [0x800004d2, 'ALPH', 'Alephium'],
   [0x800004d5, '', 'Nostr'],
+  [0x80000504, 'GLMR', 'Moonbeam'],
   [0x80000505, 'MOVR', 'Moonriver'],
   [0x8000051c, 'WEI', 'WEI'],
   [0x80000539, 'DFC', 'Defcoin'],

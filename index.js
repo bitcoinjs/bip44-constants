@@ -670,6 +670,7 @@ module.exports = [
   [0x800002bb, 'GIO', 'Gio'],
   [0x800002bc, 'XDAI', 'xDai'],
   [0x800002bd, 'COM', 'Commercio.network'],
+  [0x800002be, 'CCC', 'Commercio.network'],
   [0x800002c3, 'MCOIN', 'Moneta Coin'],
   [0x800002c7, 'CHC', 'Chaincoin'],
   [0x800002c8, 'SERF', 'Serfnet'],

@@ -621,7 +621,7 @@ module.exports = [
   [0x80000269, 'XOR', 'Sora'],
   [0x8000026a, 'SSP', 'SmartShare'],
   [0x8000026b, 'DEI', 'DeimosX'],
-  [0x8000026c, 'AXL', 'Axelar'],
+  [0x8000026c, '---', 'reserved'],
   [0x8000026d, 'ZERO', 'Singularity'],
   [0x8000026e, 'ALPHA', 'AlphaDAO'],
   [0x8000026f, 'BDCASH', 'BDCash Protocol'],

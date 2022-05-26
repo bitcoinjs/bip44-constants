@@ -740,6 +740,7 @@ module.exports = [
   [0x80000379, 'TOMO', 'TOMO'],
   [0x8000037a, 'XSEL', 'Seln'],
   [0x80000380, 'LKSC', 'LKSCoin'],
+  [0x80000382, 'AS', 'Assetchain'],
   [0x80000383, 'XEC', 'eCash'],
   [0x80000384, 'LMO', 'Lumeneo'],
   [0x80000388, 'HNT', 'Helium'],

@@ -764,6 +764,7 @@ module.exports = [
   [0x800003dc, 'XAZAB', 'Xazab core'],
   [0x800003dd, 'AIOZ', 'AIOZ'],
   [0x800003df, 'PEC', 'Phoenix'],
+  [0x800003e1, 'XRB', 'X Currency'],
   [0x800003e4, 'OKT', 'OKChain Token'],
   [0x800003e5, 'SUM', 'Solidum'],
   [0x800003e6, 'LBTC', 'Lightning Bitcoin'],

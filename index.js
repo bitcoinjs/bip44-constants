@@ -641,6 +641,7 @@ module.exports = [
   [0x80000281, 'KCS', 'KuCoin Shares'],
   [0x80000282, 'KCC', 'KuCoin Community Chain'],
   [0x80000283, 'AZERO', 'Aleph Zero'],
+  [0x80000285, 'LX', 'Lynx'],
   [0x80000286, 'XLN', 'Lunarium'],
   [0x80000288, 'ZRB', 'Zarb'],
   [0x8000028a, 'UCO', 'ARCHEthic'],

@@ -668,6 +668,7 @@ module.exports = [
   [0x800002ae, 'KAR', 'Karura Network'],
   [0x800002b0, 'CET', 'CoinEx Chain'],
   [0x800002b2, 'KLV', 'KleverChain'],
+  [0x800002b6, 'VTBC', 'VTB Community'],
   [0x800002ba, 'VEIL', 'Veil'],
   [0x800002bb, 'GIO', 'Gio'],
   [0x800002bc, 'XDAI', 'xDai'],

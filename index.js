@@ -887,7 +887,7 @@ module.exports = [
   [0x800014e9, 'HNS', 'Handshake'],
   [0x8000151c, 'ISK', 'ISKRA'],
   [0x800015b3, 'FUND', 'Unification'],
-  [0x8000167d, 'STX', 'Blockstack'],
+  [0x8000167d, 'STX', 'Stacks'],
   [0x80001707, 'VOW', 'VowChain VOW'],
   [0x80001720, 'SLU', 'SILUBIUM'],
   [0x800017ac, 'GO', 'GoChain GO'],

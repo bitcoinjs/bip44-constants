@@ -624,7 +624,7 @@ module.exports = [
   [0x8000026c, '---', 'reserved'],
   [0x8000026d, 'ZERO', 'Singularity'],
   [0x8000026e, 'ALPHA', 'AlphaDAO'],
-  [0x8000026f, 'BDCASH', 'BDCash Protocol'],
+  [0x8000026f, 'BDECO', 'BDCashProtocol Ecosystem'],
   [0x80000270, 'NOBL', 'Nobility'],
   [0x80000271, 'EAST', 'Eastcoin'],
   [0x80000272, 'KDA', 'Kadena'],

@@ -696,6 +696,7 @@ module.exports = [
   [0x80000307, 'PLSR', 'Pulsar Coin'],
   [0x80000309, 'BTW', 'Bitcoin World'],
   [0x8000030c, 'PLCU', 'PLC Ultima'],
+  [0x80000310, 'SUI', 'Sui'],
   [0x80000312, 'UIDD', 'UIDD'],
   [0x80000313, 'ACA', 'Acala'],
   [0x80000314, 'BNC', 'Bifrost'],

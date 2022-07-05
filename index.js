@@ -644,7 +644,7 @@ module.exports = [
   [0x80000285, 'LX', 'Lynx'],
   [0x80000286, 'XLN', 'Lunarium'],
   [0x80000288, 'ZRB', 'Zarb'],
-  [0x8000028a, 'UCO', 'ARCHEthic'],
+  [0x8000028a, 'UCO', 'Archethic'],
   [0x8000028f, 'WMP', 'WAMP'],
   [0x80000293, 'KOIN', 'Koinos'],
   [0x80000294, 'PIRATE', 'PirateCash'],

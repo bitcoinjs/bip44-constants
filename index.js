@@ -899,6 +899,7 @@ module.exports = [
   [0x800019c7, 'RSC', 'Royal Sports City'],
   [0x80001a0a, 'BPA', 'Bitcoin Pizza'],
   [0x80001a20, 'SAFE', 'SAFE'],
+  [0x80001a7b, 'COTI', 'COTI'],
   [0x80001b39, 'ROGER', 'TheHolyrogerCoin'],
   [0x80001bb3, 'TOPL', 'Topl'],
   [0x80001cad, 'SHFT', 'Shyft'],

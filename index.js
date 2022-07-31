@@ -672,7 +672,7 @@ module.exports = [
   [0x800002b2, 'KLV', 'KleverChain'],
   [0x800002b6, 'VTBC', 'VTB Community'],
   [0x800002ba, 'VEIL', 'Veil'],
-  [0x800002bb, 'GIO', 'Gio'],
+  [0x800002bb, 'GTB', 'GotaBit'],
   [0x800002bc, 'XDAI', 'xDai'],
   [0x800002bd, 'COM', 'Commercio.network'],
   [0x800002be, 'CCC', 'Commercio.network'],

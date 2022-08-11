@@ -861,6 +861,7 @@ module.exports = [
   [0x80000859, 'XRG', 'Ergon'],
   [0x80000888, 'CHZ', 'Chiliz'],
   [0x800008ad, 'ASK', 'ASK'],
+  [0x800008ed, '', 'Qiyi Chain'],
   [0x800008fd, 'QTUM', 'QTUM'],
   [0x800008fe, 'ETP', 'Metaverse'],
   [0x800008ff, 'GXC', 'GXChain'],

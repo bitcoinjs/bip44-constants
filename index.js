@@ -633,6 +633,7 @@ module.exports = [
   [0x80000275, 'FNR', 'Fincor'],
   [0x80000276, 'NEXUS', 'Nexus'],
   [0x80000277, 'QTZ', 'Quartz'],
+  [0x80000278, 'XMA', 'Massa'],
   [0x80000279, 'CALL', 'Callchain'],
   [0x8000027b, 'POKT', 'Pocket Network'],
   [0x8000027c, 'EMIT', 'EMIT'],

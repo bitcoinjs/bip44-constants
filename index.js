@@ -759,6 +759,7 @@ module.exports = [
   [0x80000394, 'META', 'Metadium'],
   [0x80000395, 'FRA', 'Findora'],
   [0x80000397, 'CCD', 'Concordium'],
+  [0x80000399, 'AVN', 'Avian Network'],
   [0x8000039d, 'DIP', 'Dipper Network'],
   [0x800003a3, 'RUNE', 'THORChain (RUNE)'],
   [0x800003ad, 'KCN', 'Kylacoin'],

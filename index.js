@@ -980,6 +980,7 @@ module.exports = [
   [0x80018894, 'HOME', 'HomeCoin'],
   [0x80018a92, 'STC', 'Starcoin'],
   [0x80019a91, 'STRAX', 'Strax'],
+  [0x8002780b, 'APTA', 'Bloqs4Good'],
   [0x80030fb1, 'AKA', 'Akroma'],
   [0x80011000, 'GENOM', 'GENOM'],
   [0x8003c301, 'ATS', 'ARTIS sigma1'],

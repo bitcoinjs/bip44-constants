@@ -779,6 +779,7 @@ module.exports = [
   [0x800003e0, 'UNT', 'Unit'],
   [0x800003e1, 'XRB', 'X Currency'],
   [0x800003e2, 'QUAI', 'Quai Network'],
+  [0x800003e3, 'CAPS', 'Ternoa'],
   [0x800003e4, 'OKT', 'OKChain Token'],
   [0x800003e5, 'SUM', 'Solidum'],
   [0x800003e6, 'LBTC', 'Lightning Bitcoin'],

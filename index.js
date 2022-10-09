@@ -1002,7 +1002,7 @@ module.exports = [
   [0x800d9038, 'SEA', 'Second Exchange Alliance'],
   [0x80100000, 'AMAX', 'Armonia Meta Chain'],
   [0x8011df89, 'ILT', 'iOlite'],
-  [0x8014095a, 'ETHO', 'Ether-1'],
+  [0x8014095a, 'ETHO', 'Etho Protocol'],
   [0x80140adc, 'XERO', 'Xerom'],
   [0x801a2010, 'LAX', 'LAPO'],
   [0x803be02b, 'EPK', 'EPIK Protocol'],

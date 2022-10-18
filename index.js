@@ -710,6 +710,7 @@ module.exports = [
   [0x8000031f, 'PDEX', 'Polkadex'],
   [0x80000320, 'BEET', 'Beetle Coin'],
   [0x80000321, 'DST', 'DSTRA'],
+  [0x80000324, 'ZKS', 'zkSync'],
   [0x80000328, 'QVT', 'Qvolta'],
   [0x80000329, 'SDN', 'Shiden Network'],
   [0x8000032a, 'ASTR', 'Astar Network'],

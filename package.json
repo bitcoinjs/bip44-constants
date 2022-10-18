@@ -3,9 +3,11 @@
   "version": "165.0.0",
   "description": "Bitcoin BIP44 constants.",
   "files": [
-    "index.js"
+    "index.js",
+    "index.d.ts"
   ],
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "lint": "standard",
     "test": "npm run lint",

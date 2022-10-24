@@ -935,6 +935,7 @@ module.exports = [
   [0x800021e8, 'PLMNT', 'Planetmint'],
   [0x800022b8, 'SBTC', 'Super Bitcoin'],
   [0x80002304, 'NULS', 'NULS'],
+  [0x80002325, 'BBC', 'Babacoin'],
   [0x80002326, 'JGC', 'JagoanCoin'],
   [0x80002327, 'BTP', 'Bitcoin Pay'],
   [0x80002328, 'AVAX', 'Avalanche'],

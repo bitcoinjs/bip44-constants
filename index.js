@@ -639,6 +639,7 @@ module.exports = [
   [0x8000027b, 'POKT', 'Pocket Network'],
   [0x8000027c, 'EMIT', 'EMIT'],
   [0x8000027d, 'APTOS', 'Aptos'],
+  [0x8000027e, 'ADON', 'ADON'],
   [0x8000027f, 'BTSG', 'BitSong'],
   [0x80000280, 'LFC', 'Leofcoin'],
   [0x80000281, 'KCS', 'KuCoin Shares'],

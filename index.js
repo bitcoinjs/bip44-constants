@@ -782,6 +782,7 @@ module.exports = [
   [0x800003c8, 'UNW', 'UNW'],
   [0x800003ca, 'TWINS', 'TWINS'],
   [0x800003d1, 'TLOS', 'Telos'],
+  [0x800003d5, 'TAFECO', 'Taf ECO Chain'],
   [0x800003d9, 'AU', 'Autonomy'],
   [0x800003db, 'VCG', 'VipCoin'],
   [0x800003dc, 'XAZAB', 'Xazab core'],

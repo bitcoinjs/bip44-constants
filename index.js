@@ -1012,6 +1012,7 @@ module.exports = [
   [0x80051614, 'VALUE', 'Value Chain'],
   [0x80051615, '3333', 'Pi Value Consensus'],
   [0x80067932, 'X42', 'x42'],
+  [0x80082750, 'SCR', 'Scroll'],
   [0x800a2c2a, 'VITE', 'Vite'],
   [0x800d9038, 'SEA', 'Second Exchange Alliance'],
   [0x80100000, 'AMAX', 'Armonia Meta Chain'],

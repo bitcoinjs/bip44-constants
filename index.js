@@ -881,6 +881,7 @@ module.exports = [
   [0x800007e6, 'XHT', 'Xinghuo Token'],
   [0x80000800, 'MCASH', 'MCashChain'],
   [0x80000801, 'TRUE', 'TrueChain'],
+  [0x80000826, 'KILT', 'KILT Spiritnet'],
   [0x8000083d, 'SAMA', 'Exosama Network'],
   [0x80000840, 'IoTE', 'IoTE'],
   [0x80000859, 'XRG', 'Ergon'],

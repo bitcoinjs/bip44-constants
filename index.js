@@ -984,7 +984,7 @@ module.exports = [
   [0x800057e8, 'PWR', 'PWRcoin'],
   [0x800062a4, 'BELL', 'Bellcoin'],
   [0x80006476, 'CHX', 'Own'],
-  [0x80007531, 'FLR', 'Flare'],
+  [0x80007531, '---', 'reserved'],
   [0x8000797e, 'ESN', 'EtherSocial Network'],
   [0x80007a69, '', 'ThePower'],
   [0x80008288, 'TEO', 'Trust Eth reOrigin'],

@@ -921,6 +921,7 @@ module.exports = [
   [0x80001092, 'AXE', 'Axe'],
   [0x800010f7, 'XYM', 'Symbol'],
   [0x8000115c, 'C4E', 'Chain4Energy'],
+  [0x80001337, 'XVM', 'Venidium'],
   [0x8000138e, 'SBC', 'Senior Blockchain'],
   [0x80001480, 'FIC', 'FIC'],
   [0x800014e9, 'HNS', 'Handshake'],

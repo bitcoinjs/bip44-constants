@@ -648,6 +648,7 @@ module.exports = [
   [0x80000284, 'TREE', 'Tree'],
   [0x80000285, 'LX', 'Lynx'],
   [0x80000286, 'XLN', 'Lunarium'],
+  [0x80000287, 'CIC', 'CIC Chain'],
   [0x80000288, 'ZRB', 'Zarb'],
   [0x8000028a, 'UCO', 'Archethic'],
   [0x8000028b, 'SFX', 'Safex Cash'],

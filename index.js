@@ -675,6 +675,7 @@ module.exports = [
   [0x800002a8, 'Evrynet', 'Evrynet'],
   [0x800002a9, 'NENG', 'Nengcoin'],
   [0x800002aa, 'CHTA', 'Cheetahcoin'],
+  [0x800002ad, 'OAS', 'Oasys'],
   [0x800002ae, 'KAR', 'Karura Network'],
   [0x800002b0, 'CET', 'CoinEx Chain'],
   [0x800002b2, 'KLV', 'KleverChain'],

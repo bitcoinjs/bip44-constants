@@ -976,6 +976,7 @@ module.exports = [
   [0x8000312a, 'MINA', 'Mina'],
   [0x80003333, 'BTY', 'BitYuan'],
   [0x80003334, 'YCC', 'Yuan Chain Coin'],
+  [0x800036b1, 'WAX', 'Worldwide Asset Exchange'],
   [0x80003de5, 'SDGO', 'SanDeGo'],
   [0x80003f35, 'XTX', 'Totem Live Network'],
   [0x80004172, 'ARDR', 'Ardor'],

@@ -846,6 +846,7 @@ module.exports = [
   [0x80000650, 'ELF', 'AELF'],
   [0x80000652, 'AUDL', 'AUDL'],
   [0x80000654, 'ATH', 'Atheios'],
+  [0x8000065b, 'LUME', 'Lume Web'],
   [0x8000066a, 'NEW', 'Newton'],
   [0x80000679, 'BTA', 'Btachain'],
   [0x80000698, 'BCX', 'BitcoinX'],

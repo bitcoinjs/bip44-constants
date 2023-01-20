@@ -694,7 +694,7 @@ module.exports = [
   [0x800002cb, 'SIN', 'Sinovate'],
   [0x800002cc, 'DLN', 'Delion'],
   [0x800002cd, 'BONTE', 'Bontecoin'],
-  [0x800002ce, 'PEER', 'Peer Meta Coin'],
+  [0x800002ce, 'PEER', 'Peer'],
   [0x800002d5, 'MCX', 'MultiCash'],
   [0x800002da, 'HEALIOS', 'Tenacity'],
   [0x800002db, 'BMK', 'Bitmark'],

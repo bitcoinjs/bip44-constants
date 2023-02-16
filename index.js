@@ -908,7 +908,7 @@ module.exports = [
   [0x80000b4e, 'REOSC', 'REOSC Ecosystem'],
   [0x80000b7d, 'BND', 'Blocknode'],
   [0x80000bbb, 'LUX', 'LUX'],
-  [0x80000bd6, 'XHB', 'Hedera HBAR'],
+  [0x80000bd6, 'HBAR', 'Hedera HBAR'],
   [0x80000c05, 'COS', 'Contentos'],
   [0x80000ccc, 'CCC', 'CodeChain'],
   [0x80000d05, 'SXP', 'Solar'],

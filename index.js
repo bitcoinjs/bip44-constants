@@ -703,6 +703,7 @@ module.exports = [
   [0x800002e1, 'ATOP', 'Financial Blockchain'],
   [0x800002eb, 'CFG', 'Centrifuge'],
   [0x800002ee, 'XPRT', 'Persistence'],
+  [0x800002f1, '', 'Age Encryption'],
   [0x800002f5, 'HONEY', 'HoneyWood'],
   [0x80000300, 'BALLZ', 'Ballzcoin'],
   [0x80000302, 'COSA', 'Cosanta'],

@@ -758,6 +758,7 @@ module.exports = [
   [0x8000035a, 'HVH', 'HAVAH'],
   [0x80000362, 'MOB', 'MobileCoin'],
   [0x80000364, 'IF', 'Infinitefuture'],
+  [0x8000036d, 'NAM', 'Namada'],
   [0x80000370, 'LUM', 'Lum Network'],
   [0x80000373, 'ZBC', 'ZooBC'],
   [0x80000376, 'ADF', 'AD Token'],

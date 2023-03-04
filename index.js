@@ -199,7 +199,7 @@ module.exports = [
   [0x800000c3, 'TRX', 'Tron'],
   [0x800000c4, 'KOBO', 'Kobocoin'],
   [0x800000c5, 'HUSH', 'HUSH'],
-  [0x800000c6, 'BANANO', 'Bananos'],
+  [0x800000c6, 'BAN', 'Banano'],
   [0x800000c7, 'ETF', 'ETF'],
   [0x800000c8, 'OMNI', 'Omni'],
   [0x800000c9, 'BIFI', 'BitcoinFile'],

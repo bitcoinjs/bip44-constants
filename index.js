@@ -853,6 +853,7 @@ module.exports = [
   [0x8000065b, 'LUME', 'Lume Web'],
   [0x8000066a, 'NEW', 'Newton'],
   [0x80000679, 'BTA', 'Btachain'],
+  [0x80000684, 'NEOX', 'Neoxa'],
   [0x80000685, 'MEWC', 'Meowcoin'],
   [0x80000698, 'BCX', 'BitcoinX'],
   [0x800006c1, 'XTZ', 'Tezos'],

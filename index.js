@@ -784,6 +784,7 @@ module.exports = [
   [0x800003a0, 'GHM', 'HermitMatrixNetwork'],
   [0x800003a3, 'RUNE', 'THORChain (RUNE)'],
   [0x800003ad, '---', 'reserved'],
+  [0x800003b1, 'UNLOCK', 'Jasiri protocol'],
   [0x800003bb, 'LTP', 'LifetionCoin'],
   [0x800003be, '', 'KickSoccer'],
   [0x800003c0, 'VKAX', 'Vkax'],

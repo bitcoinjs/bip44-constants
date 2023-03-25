@@ -1061,6 +1061,7 @@ module.exports = [
   [0x80776772, 'WGR', 'WGR'],
   [0x80776773, 'OBSR', 'OBServer'],
   [0x807c8fc7, 'AFS', 'ANFS'],
+  [0x8087a238, 'GGX', 'Golden Gate'],
   [0x80e6b280, 'XDS', 'XDS'],
   [0x83adbc39, 'AQUA', 'Aquachain'],
   [0x854c5638, 'HATCH', 'Hatch'],

@@ -913,6 +913,7 @@ module.exports = [
   [0x80000901, 'ELA', 'Elastos'],
   [0x80000922, 'SNOW', 'Snowblossom'],
   [0x8000093d, 'XIN', 'Mixin'],
+  [0x800009c4, 'NEXI', 'Nexi'],
   [0x80000a0a, 'AOA', 'Aurora'],
   [0x80000a9e, 'NAS', 'Nebulas'],
   [0x80000b4e, 'REOSC', 'REOSC Ecosystem'],

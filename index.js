@@ -959,6 +959,7 @@ module.exports = [
   [0x80001e61, 'BTV', 'Bitvote'],
   [0x80001f40, 'SKY', 'Skycoin'],
   [0x80001f90, '', 'DSRV'],
+  [0x80001ff5, 'BOC', 'BeOne Chain'],
   [0x80002000, 'PAC', 'pacprotocol'],
   [0x80002019, 'KLAY', 'KLAY'],
   [0x80002093, 'BTQ', 'BitcoinQuark'],

@@ -1044,6 +1044,7 @@ module.exports = [
   [0x80082750, 'SCR', 'Scroll'],
   [0x800a2c2a, 'VITE', 'Vite'],
   [0x800d9038, 'SEA', 'Second Exchange Alliance'],
+  [0x800c9061, 'WTC', 'WaltonChain'],
   [0x80100000, 'AMAX', 'Armonia Meta Chain'],
   [0x8011df89, 'ILT', 'iOlite'],
   [0x8014095a, 'ETHO', 'Etho Protocol'],

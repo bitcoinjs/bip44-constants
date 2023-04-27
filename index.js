@@ -657,6 +657,7 @@ module.exports = [
   [0x8000028d, 'WSFX', 'Wrapped Safex Cash'],
   [0x8000028e, 'USDG', 'US Digital Gold'],
   [0x8000028f, 'WMP', 'WAMP'],
+  [0x80000290, 'EKTA', 'Ekta'],
   [0x80000293, 'KOIN', 'Koinos'],
   [0x80000294, 'PIRATE', 'PirateCash'],
   [0x80000297, 'SFRX', 'EtherGem Sapphire'],

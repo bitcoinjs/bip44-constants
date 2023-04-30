@@ -786,6 +786,7 @@ module.exports = [
   [0x8000039d, 'DIP', 'Dipper Network'],
   [0x800003a0, 'GHM', 'HermitMatrixNetwork'],
   [0x800003a3, 'RUNE', 'THORChain (RUNE)'],
+  [0x800003a4, 'CACAO', 'Maya Protocol'],
   [0x800003ad, '---', 'reserved'],
   [0x800003b1, 'UNLOCK', 'Jasiri protocol'],
   [0x800003bb, 'LTP', 'LifetionCoin'],

@@ -823,6 +823,7 @@ module.exports = [
   [0x800003ee, 'HSK', 'HashKey Chain'],
   [0x800003ef, 'FTM', 'Fantom'],
   [0x800003f0, 'RPG', 'RPG'],
+  [0x800003f1, 'LAKE', 'iconLake'],
   [0x800003f2, 'HT', 'Huobi ECO Chain'],
   [0x800003f3, 'ELV', 'Eluvio'],
   [0x800003f5, 'BIC', 'Beincrypto'],

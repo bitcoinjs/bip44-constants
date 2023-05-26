@@ -439,7 +439,7 @@ module.exports = [
   [0x800001b3, 'PCN', 'Peepcoin'],
   [0x800001b4, 'NCH', 'NetCloth'],
   [0x800001b5, 'ICU', 'CHIPO'],
-  [0x800001b6, 'LN', 'LINK'],
+  [0x800001b6, 'FNSA', 'FINSCHIA'],
   [0x800001b7, 'DTP', 'DeVault Token Protocol'],
   [0x800001b8, 'BTCR', 'Bitcoin Royale'],
   [0x800001b9, 'AERGO', 'AERGO'],

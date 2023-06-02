@@ -834,6 +834,7 @@ module.exports = [
   [0x80000401, 'CZZ', 'Classzz'],
   [0x80000402, 'KEX', 'Kira Exchange Token'],
   [0x80000403, 'MCM', 'Mochimo'],
+  [0x80000404, 'PLS', 'Pulse Coin'],
   [0x80000408, 'BTCR', 'BTCR'],
   [0x80000412, 'MFID', 'Moonfish ID'],
   [0x80000457, 'BBC', 'Big Bitcoin'],

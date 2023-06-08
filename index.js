@@ -848,6 +848,7 @@ module.exports = [
   [0x80000483, 'EFI', 'Efinity'],
   [0x80000492, 'HOO', 'Hoo Smart Chain'],
   [0x800004d2, 'ALPH', 'Alephium'],
+  [0x800004d4, '', 'Masca'],
   [0x800004d5, '', 'Nostr'],
   [0x80000504, 'GLMR', 'Moonbeam'],
   [0x80000505, 'MOVR', 'Moonriver'],

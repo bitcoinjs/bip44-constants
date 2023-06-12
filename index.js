@@ -923,6 +923,7 @@ module.exports = [
   [0x800008ff, 'GXC', 'GXChain'],
   [0x80000900, 'CRP', 'CranePay'],
   [0x80000901, 'ELA', 'Elastos'],
+  [0x80000905, 'SAMA', 'Moonsama Network'],
   [0x80000922, 'SNOW', 'Snowblossom'],
   [0x8000093d, 'XIN', 'Mixin'],
   [0x800009c4, 'NEXI', 'Nexi'],

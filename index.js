@@ -967,6 +967,7 @@ module.exports = [
   [0x80001a7b, 'COTI', 'COTI'],
   [0x80001b39, 'ROGER', 'TheHolyrogerCoin'],
   [0x80001b73, 'ELLA', 'Ella the heart'],
+  [0x80001b74, 'AA', 'Arthera'],
   [0x80001bb3, 'TOPL', 'Topl'],
   [0x80001ca3, 'KLY', 'KLYNTAR'],
   [0x80001cad, 'SHFT', 'Shyft'],

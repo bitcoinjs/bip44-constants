@@ -855,6 +855,7 @@ module.exports = [
   [0x80000512, 'WPC', 'Wpc'],
   [0x8000051c, 'WEI', 'WEI'],
   [0x80000539, 'DFC', 'Defcoin'],
+  [0x80000544, 'ISLM', 'IslamicCoin'],
   [0x80000575, 'HYC', 'Hycon'],
   [0x80000582, 'TENTSLP', 'TENT Simple Ledger Protocol'],
   [0x800005e6, 'XSC', 'XT Smart Chain'],

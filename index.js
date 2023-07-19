@@ -1003,6 +1003,7 @@ module.exports = [
   [0x80002710, 'FO', 'FIBOS'],
   [0x800027f2, 'RTM', 'Raptoreum'],
   [0x80002833, 'XRC', 'XRhodium'],
+  [0x8000290b, 'NUM', 'Numbers Protocol'],
   [0x8000296d, 'XPI', 'Lotus'],
   [0x80002b67, 'ESS', 'Essentia One'],
   [0x80002dde, 'VARCH', 'InvArch'],

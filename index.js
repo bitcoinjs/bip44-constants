@@ -785,6 +785,7 @@ module.exports = [
   [0x8000038b, 'FIS', 'StaFi'],
   [0x8000038d, 'SGE', 'Saage'],
   [0x8000038f, 'GERT', 'Gert'],
+  [0x80000391, 'VARA', 'Vara Network'],
   [0x80000394, 'META', 'Metadium'],
   [0x80000395, 'FRA', 'Findora'],
   [0x80000397, 'CCD', 'Concordium'],

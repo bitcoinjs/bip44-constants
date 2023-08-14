@@ -763,6 +763,7 @@ module.exports = [
   [0x80000350, 'BIR', 'Birake'],
   [0x80000351, 'MOBIC', 'MobilityCoin'],
   [0x80000352, 'FLS', 'Flits'],
+  [0x80000353, 'FRECO', 'Freco'],
   [0x80000354, 'DSM', 'Desmos'],
   [0x80000355, 'PRCY', 'PRCY Coin'],
   [0x8000035a, 'HVH', 'HAVAH'],

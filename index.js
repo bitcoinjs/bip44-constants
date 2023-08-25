@@ -834,7 +834,7 @@ module.exports = [
   [0x800003f5, 'BIC', 'Beincrypto'],
   [0x800003fc, 'EVC', 'Evrice'],
   [0x800003fe, 'XRD', 'Radix DLT'],
-  [0x800003ff, 'ONE', 'HARMONY-ONE'],
+  [0x800003ff, 'ONE', 'HARMONY-ONE (Legacy)'],
   [0x80000400, 'ONT', 'Ontology'],
   [0x80000401, 'CZZ', 'Classzz'],
   [0x80000402, 'KEX', 'Kira Exchange Token'],

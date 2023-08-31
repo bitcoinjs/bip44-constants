@@ -967,6 +967,7 @@ module.exports = [
   [0x80001720, 'SLU', 'SILUBIUM'],
   [0x800017ac, 'GO', 'GoChain GO'],
   [0x8000181e, 'MOI', 'My Own Internet'],
+  [0x80001984, 'UM', 'Penumbra'],
   [0x800019c7, 'RSC', 'Royal Sports City'],
   [0x80001a0a, 'BPA', 'Bitcoin Pizza'],
   [0x80001a20, 'SAFE', 'SAFE'],

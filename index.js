@@ -850,7 +850,7 @@ module.exports = [
   [0x8000046a, 'DFI', 'DeFiChain EVM Network'],
   [0x80000471, '$DAG', 'Constellation Labs'],
   [0x80000479, 'CDY', 'Bitcoin Candy'],
-  [0x80000483, 'EFI', 'Efinity'],
+  [0x80000483, 'ENJ', 'Enjin Coin'],
   [0x80000492, 'HOO', 'Hoo Smart Chain'],
   [0x800004d2, 'ALPH', 'Alephium'],
   [0x800004d4, '', 'Masca'],

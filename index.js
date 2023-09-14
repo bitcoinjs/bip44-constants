@@ -950,6 +950,7 @@ module.exports = [
   [0x80000de0, 'DEO', 'Destocoin'],
   [0x80000dec, 'DST', 'DeStream'],
   [0x80000e11, 'CY', 'Cybits'],
+  [0x80000ead, 'MPC', 'Partisia Blockchain'],
   [0x80000fc8, 'FC8', 'FCH Network'],
   [0x80001000, 'YEE', 'YeeCo'],
   [0x8000107a, 'IOTA', 'IOTA'],

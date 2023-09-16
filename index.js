@@ -661,6 +661,7 @@ module.exports = [
   [0x80000291, 'YDA', 'YadaCoin'],
   [0x80000293, 'KOIN', 'Koinos'],
   [0x80000294, 'PIRATE', 'PirateCash'],
+  [0x80000295, 'UNQ', 'Unique'],
   [0x80000297, 'SFRX', 'EtherGem Sapphire'],
   [0x8000029a, 'ACT', 'Achain'],
   [0x8000029b, 'PRKL', 'Perkle'],

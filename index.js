@@ -915,6 +915,7 @@ module.exports = [
   [0x800007e3, 'GBT', 'GoldBean Token'],
   [0x800007e4, 'PKC', 'PKC'],
   [0x800007e5, 'SKT', 'Sukhavati'],
+  [0x800007e8, 'USBC', 'Universal Ledger USBC'],
   [0x800007e6, 'XHT', 'Xinghuo Token'],
   [0x800007fe, 'ANY', 'Any'],
   [0x80000800, 'MCASH', 'MCashChain'],

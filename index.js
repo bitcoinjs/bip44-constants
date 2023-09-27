@@ -920,6 +920,7 @@ module.exports = [
   [0x800007fe, 'ANY', 'Any'],
   [0x80000800, 'MCASH', 'MCashChain'],
   [0x80000801, 'TRUE', 'TrueChain'],
+  [0x80000802, 'MOVO', 'Movo Smart Chain'],
   [0x80000826, 'KILT', 'KILT Spiritnet'],
   [0x8000083d, 'SAMA', 'Exosama Network'],
   [0x80000840, 'IoTE', 'IoTE'],

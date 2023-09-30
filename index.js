@@ -858,6 +858,7 @@ module.exports = [
   [0x800004d2, 'ALPH', 'Alephium'],
   [0x800004d4, '', 'Masca'],
   [0x800004d5, '', 'Nostr'],
+  [0x80000500, '', 'Kudos Setler'],
   [0x80000504, 'GLMR', 'Moonbeam'],
   [0x80000505, 'MOVR', 'Moonriver'],
   [0x80000512, 'WPC', 'Wpc'],

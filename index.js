@@ -930,6 +930,7 @@ module.exports = [
   [0x80000888, 'CHZ', 'Chiliz'],
   [0x80000897, 'SAMA', 'Moonsama Network'],
   [0x800008ad, 'ASK', 'ASK'],
+  [0x800008ae, 'CWEB', 'Coinweb'],
   [0x800008ed, '', 'Qiyi Chain'],
   [0x800008fd, 'QTUM', 'QTUM'],
   [0x800008fe, 'ETP', 'Metaverse'],

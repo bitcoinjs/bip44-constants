@@ -871,6 +871,7 @@ module.exports = [
   [0x800005e8, 'AAC', 'Double-A Chain'],
   [0x800005f4, '', 'Taler'],
   [0x800005fd, 'BEAM', 'Beam'],
+  [0x8000060f, 'SDK', 'Sovereign SDK'],
   [0x80000613, 'APC', 'Apc Chain'],
   [0x80000650, 'ELF', 'AELF'],
   [0x80000652, 'AUDL', 'AUDL'],

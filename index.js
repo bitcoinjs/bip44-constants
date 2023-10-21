@@ -1039,6 +1039,7 @@ module.exports = [
   [0x80004add, 'SAFE', 'Safecoin'],
   [0x80004adf, 'FLUX', 'Flux'],
   [0x80004ae1, 'RITO', 'Ritocoin'],
+  [0x80004d4c, 'ML', 'Mintlayer'],
   [0x80004e44, 'XND', 'ndau'],
   [0x8000520c, 'C4EI', 'c4ei'],
   [0x80005580, 'PAC', 'Pactus'],

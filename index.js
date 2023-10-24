@@ -894,6 +894,7 @@ module.exports = [
   [0x80000760, 'ZTX', 'Zetrix'],
   [0x8000076b, 'XEC', 'eCash token'],
   [0x8000076d, 'CLC', 'Classica'],
+  [0x80000773, 'BITCI', 'Bitcicoin'],
   [0x8000077f, 'VIPS', 'VIPSTARCOIN'],
   [0x80000786, 'CITY', 'City Coin'],
   [0x800007a3, 'XX', 'xx coin'],

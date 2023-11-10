@@ -282,7 +282,7 @@ module.exports = [
   [0x80000116, 'BOLI', 'Bolivarcoin'],
   [0x80000117, 'RIL', 'Rilcoin'],
   [0x80000118, 'HTR', 'Hathor Network'],
-  [0x80000119, 'FCTID', 'Factom ID'],
+  [0x80000119, 'ACME', 'Accumulate'],
   [0x8000011a, 'BRAVO', 'BRAVO'],
   [0x8000011b, 'ALGO', 'Algorand'],
   [0x8000011c, 'BZX', 'Bitcoinzero'],

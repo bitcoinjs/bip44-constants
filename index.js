@@ -834,6 +834,7 @@ module.exports = [
   [0x800003f1, 'LAKE', 'iconLake'],
   [0x800003f2, 'HT', 'Huobi ECO Chain'],
   [0x800003f3, 'ELV', 'Eluvio'],
+  [0x800003f4, 'JOC', 'Japan Open Chain'],
   [0x800003f5, 'BIC', 'Beincrypto'],
   [0x800003f8, '---', 'reserved'],
   [0x800003fc, 'EVC', 'Evrice'],

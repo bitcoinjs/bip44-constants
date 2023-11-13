@@ -706,6 +706,7 @@ module.exports = [
   [0x800002d2, 'IL8P', 'InfiniLooP'],
   [0x800002d4, 'XVC', 'Vanillacash'],
   [0x800002d5, 'MCX', 'MultiCash'],
+  [0x800002d7, 'BLU', 'BluCrates'],
   [0x800002da, 'HEALIOS', 'Tenacity'],
   [0x800002db, 'BMK', 'Bitmark'],
   [0x800002de, 'DENTX', 'DENTNet'],

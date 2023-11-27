@@ -703,6 +703,7 @@ module.exports = [
   [0x800002ce, 'PEER', 'Peer'],
   [0x800002cf, 'ZET', 'Zetacoin'],
   [0x800002d0, 'ABY', 'Artbyte'],
+  [0x800002d1, 'PGX', 'Mirai Chain'],
   [0x800002d2, 'IL8P', 'InfiniLooP'],
   [0x800002d4, 'XVC', 'Vanillacash'],
   [0x800002d5, 'MCX', 'MultiCash'],

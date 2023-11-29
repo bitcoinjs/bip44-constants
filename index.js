@@ -691,6 +691,8 @@ module.exports = [
   [0x800002bc, 'XDAI', 'xDai'],
   [0x800002bd, 'COM', 'Commercio'],
   [0x800002be, 'CCC', 'Commercio Cash Credit'],
+  [0x800002c1, 'PEG', 'Pegasus Token'],
+  [0x800002c2, 'LKG', 'Lionking'],
   [0x800002c3, 'MCOIN', 'Moneta Coin'],
   [0x800002c6, 'FURY', 'Highbury'],
   [0x800002c7, 'CHC', 'Chaincoin'],

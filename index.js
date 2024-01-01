@@ -725,6 +725,7 @@ module.exports = [
   [0x80000300, 'BALLZ', 'Ballzcoin'],
   [0x80000302, 'COSA', 'Cosanta'],
   [0x80000303, 'BR', 'BR'],
+  [0x80000305, 'CSB', 'CosmoBliss'],
   [0x80000307, 'PLSR', 'Pulsar Coin'],
   [0x80000308, 'KEY', 'Keymaker Coin'],
   [0x80000309, 'BTW', 'Bitcoin World'],

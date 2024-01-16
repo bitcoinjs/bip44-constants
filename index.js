@@ -967,6 +967,7 @@ module.exports = [
   [0x80000d31, 'ROI', 'ROIcoin'],
   [0x80000d35, 'DYN', 'Dynamic'],
   [0x80000d37, 'SEQ', 'Sequence'],
+  [0x80000dad, 'JFIN', 'JFIN Coin'],
   [0x80000de0, 'DEO', 'Destocoin'],
   [0x80000dec, 'DST', 'DeStream'],
   [0x80000e11, 'CY', 'Cybits'],

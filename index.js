@@ -748,6 +748,7 @@ module.exports = [
   [0x8000032a, 'ASTR', 'Astar Network'],
   [0x8000032b, '---', 'reserved'],
   [0x8000032d, 'MEER', 'Qitmeer'],
+  [0x80000330, 'FSC', 'FSC'],
   [0x80000332, 'VET', 'VeChain Token'],
   [0x80000333, 'REEF', 'Reef'],
   [0x80000334, 'CLO', 'Callisto'],

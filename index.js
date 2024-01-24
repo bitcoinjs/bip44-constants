@@ -994,6 +994,7 @@ module.exports = [
   [0x80001720, 'SLU', 'SILUBIUM'],
   [0x8000176B, 'DUSK', 'Dusk Network'],
   [0x800017ac, 'GO', 'GoChain GO'],
+  [0x80001800, 'DTS', 'Datos'],
   [0x8000181e, 'MOI', 'My Own Internet'],
   [0x80001984, 'UM', 'Penumbra'],
   [0x800019c7, 'RSC', 'Royal Sports City'],

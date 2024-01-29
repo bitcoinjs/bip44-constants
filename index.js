@@ -996,6 +996,7 @@ module.exports = [
   [0x800017ac, 'GO', 'GoChain GO'],
   [0x80001800, 'DTS', 'Datos'],
   [0x8000181e, 'MOI', 'My Own Internet'],
+  [0x80001886, 'STEAMX', 'Rails Network Mainnet'],
   [0x80001984, 'UM', 'Penumbra'],
   [0x800019c7, 'RSC', 'Royal Sports City'],
   [0x80001a0a, 'BPA', 'Bitcoin Pizza'],

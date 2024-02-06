@@ -1003,6 +1003,7 @@ module.exports = [
   [0x80001a20, 'SAFE', 'SAFE'],
   [0x80001a7b, 'COTI', 'COTI'],
   [0x80001b39, 'ROGER', 'TheHolyrogerCoin'],
+  [0x80001b58, 'ZETA', 'ZetaChain'],
   [0x80001b73, 'ELLA', 'Ella the heart'],
   [0x80001b74, 'AA', 'Arthera'],
   [0x80001bb3, 'TOPL', 'Topl'],

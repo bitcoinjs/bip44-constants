@@ -738,6 +738,8 @@ module.exports = [
   [0x80000313, 'ACA', 'Acala'],
   [0x80000314, 'BNC', 'Bifrost'],
   [0x80000315, 'TAU', 'Lamden'],
+  [0x8000031a, 'INTR', 'Interlay'],
+  [0x8000031b, 'KINT', 'Kintsugi'],
   [0x8000031f, 'PDEX', 'Polkadex'],
   [0x80000320, 'BEET', 'Beetle Coin'],
   [0x80000321, 'DST', 'DSTRA'],

@@ -755,6 +755,7 @@ module.exports = [
   [0x80000333, 'REEF', 'Reef'],
   [0x80000334, 'CLO', 'Callisto'],
   [0x80000336, 'BDB', 'BigchainDB'],
+  [0x80000338, 'RBNT', 'Redbelly Network'],
   [0x8000033b, 'ACE', 'Endurance'],
   [0x8000033c, 'CCN', 'ComputeCoin'],
   [0x8000033d, 'BBA', 'BBACHAIN'],

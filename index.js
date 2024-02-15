@@ -817,6 +817,7 @@ module.exports = [
   [0x800003c0, 'VKAX', 'Vkax'],
   [0x800003c6, 'MATIC', 'Matic'],
   [0x800003c8, 'UNW', 'UNW'],
+  [0x800003c9, 'QI', 'Quai Network'],
   [0x800003ca, 'TWINS', 'TWINS'],
   [0x800003d1, 'TLOS', 'Telos'],
   [0x800003d5, 'TAFECO', 'Taf ECO Chain'],

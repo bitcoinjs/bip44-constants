@@ -1099,6 +1099,7 @@ module.exports = [
   [0x80018a92, 'STC', 'Starcoin'],
   [0x80019a91, 'STRAX', 'Strax'],
   [0x8001b207, 'KAS', 'Kaspa'],
+  [0x8001d9f9, 'KLS', 'Karlsen'],
   [0x8002780b, 'APTA', 'Bloqs4Good'],
   [0x80030fb1, 'AKA', 'Akroma'],
   [0x80011000, 'GENOM', 'GENOM'],

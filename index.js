@@ -960,6 +960,7 @@ module.exports = [
   [0x8000093d, 'XIN', 'Mixin'],
   [0x800009c4, 'NEXI', 'Nexi'],
   [0x80000a0a, 'AOA', 'Aurora'],
+  [0x80000a7e, 'AIPG', 'AIPowerGrid'],
   [0x80000a9e, 'NAS', 'Nebulas'],
   [0x80000b4e, 'REOSC', 'REOSC Ecosystem'],
   [0x80000b7d, 'BND', 'Blocknode'],

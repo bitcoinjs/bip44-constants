@@ -1114,6 +1114,7 @@ module.exports = [
   [0x80067932, 'X42', 'x42'],
   [0x80082750, 'SCR', 'Scroll'],
   [0x800a2c2a, 'VITE', 'Vite'],
+  [0x800b3206, 'ICE', 'Ice Network'],
   [0x800d9038, 'SEA', 'Second Exchange Alliance'],
   [0x800c9061, 'WTC', 'WaltonChain'],
   [0x80100000, 'AMAX', 'Armonia Meta Chain'],

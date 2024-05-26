@@ -822,6 +822,7 @@ module.exports = [
   [0x800003a0, 'GHM', 'HermitMatrixNetwork'],
   [0x800003a3, 'RUNE', 'THORChain (RUNE)'],
   [0x800003aa, 'MGO', 'Mango Network'],
+  [0x800003ab, 'AB', 'Argot Protocol'],
   [0x800003ad, '---', 'reserved'],
   [0x800003ae, 'KCN', 'Kylacoin'],
   [0x800003af, 'LCN', 'Lyncoin'],

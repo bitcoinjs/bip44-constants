@@ -9,6 +9,6 @@ export type Entry = [
   CoinTypeTitle,
 ];
 
-export const entries: Entry[];
+const entries: Entry[];
 
 export default entries;

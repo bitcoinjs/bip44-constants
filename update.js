@@ -7,7 +7,7 @@ const fetch = require('node-fetch')
 
   const constants = []
   const $ = cheerio.load(body)
-  $('table tr').each((i, el) => {
+  $('tr').each((i, el) => {
     if (i === 0) return // skip the header
 
     const cols = Array.from($(el).find('td').map((idx, elem) => {

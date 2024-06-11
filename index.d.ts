@@ -1,4 +1,3 @@
-
 export type CoinTypeNumber = number;
 export type CoinTypeName = string;
 export type CoinTypeTitle = string;
@@ -9,6 +8,5 @@ export type Entry = [
   CoinTypeTitle,
 ];
 
-const entries: Entry[];
-
-export default entries;
+declare const _default: Entry[];
+export default _default;

@@ -1,21 +1,28 @@
-const cheerio = require('cheerio')
 const fetch = require('node-fetch')
 
 ;(async () => {
-  const res = await fetch('https://github.com/satoshilabs/slips/blob/master/slip-0044.md')
+  const res = await fetch('https://raw.githubusercontent.com/satoshilabs/slips/master/slip-0044.md')
   const body = await res.text()
 
+  // start with "| Coin type" end with "\n\nCoin types "
+  const content = body.slice(body.search(/\| Coin type/), body.search('\n\nCoin types '))
   const constants = []
-  const $ = cheerio.load(body)
-  $('tr').each((i, el) => {
-    if (i === 0) return // skip the header
 
-    const cols = Array.from($(el).find('td').map((idx, elem) => {
-      return $(elem).text().trim()
-    }))
+  content.split('\n').forEach((line, i) => {
+    if (i < 2) return // skip the header rows
+
+    const cols = line.split('|').map(entry => entry.trim())
 
     // remove the index from the item, it is redundant
     cols.shift()
+    cols.shift()
+
+    while (cols.length > 3) {
+      cols.pop()
+    }
+    while (cols.length < 3) {
+      cols.push('')
+    }
 
     if (cols[1] === '' && cols[2] === '') return // remove empty rows
 

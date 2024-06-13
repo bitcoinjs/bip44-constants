@@ -1120,6 +1120,7 @@ module.exports = [
   [0x8001869f, 'WICC', 'Waykichain'],
   [0x80018894, 'HOME', 'HomeCoin'],
   [0x80018a92, 'STC', 'Starcoin'],
+  [0x800196ad, '', 'Seed Hypermedia'],
   [0x80019a91, 'STRAX', 'Strax'],
   [0x8001b207, 'KAS', 'Kaspa'],
   [0x8001d9f9, 'KLS', 'Karlsen'],

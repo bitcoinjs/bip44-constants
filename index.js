@@ -990,6 +990,7 @@ module.exports = [
   [0x80000c05, 'COS', 'Contentos'],
   [0x80000ccc, 'CCC', 'CodeChain'],
   [0x80000d05, 'SXP', 'Solar'],
+  [0x80000d0a, 'PEAQ', 'peaq'],
   [0x80000d31, 'ROI', 'ROIcoin'],
   [0x80000d35, 'DYN', 'Dynamic'],
   [0x80000d37, 'SEQ', 'Sequence'],

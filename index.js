@@ -145,7 +145,7 @@ module.exports = [
   [0x8000008d, 'KMD', 'Komodo'],
   [0x8000008e, 'BSQ', 'bisq Token'],
   [0x8000008f, 'RIC', 'Riecoin'],
-  [0x80000090, 'XRP', 'Ripple'],
+  [0x80000090, 'XRP', 'XRP'],
   [0x80000091, 'BCH', 'Bitcoin Cash'],
   [0x80000092, 'NEBL', 'Neblio'],
   [0x80000093, 'ZCL', 'ZClassic'],

@@ -986,6 +986,7 @@ module.exports = [
   [0x80000a0a, 'AOA', 'Aurora'],
   [0x80000a7e, 'AIPG', 'AIPowerGrid'],
   [0x80000a9e, 'NAS', 'Nebulas'],
+  [0x80000af9, 'LAN', 'Lanify'],
   [0x80000b4e, 'REOSC', 'REOSC Ecosystem'],
   [0x80000b7d, 'BND', 'Blocknode'],
   [0x80000bb8, 'SM', 'Stealth Message'],

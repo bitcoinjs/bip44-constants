@@ -757,6 +757,7 @@ module.exports = [
   [0x80000322, 'CY', 'Cyberyen'],
   [0x80000323, 'RYME', 'Ryme Network'],
   [0x80000324, 'ZKS', 'zkSync'],
+  [0x80000325, 'SCASH', 'Scash'],
   [0x80000328, 'QVT', 'Qvolta'],
   [0x80000329, 'SDN', 'Shiden Network'],
   [0x8000032a, 'ASTR', 'Astar Network'],

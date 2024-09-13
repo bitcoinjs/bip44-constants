@@ -733,6 +733,7 @@ module.exports = [
   [0x800002f1, '', 'Age X25519 Encryption'],
   [0x800002f2, '', 'Age NIST Encryption'],
   [0x800002f5, 'HONEY', 'HoneyWood'],
+  [0x800002fd, 'TGN', 'Tagion'],
   [0x80000300, 'BALLZ', 'Ballzcoin'],
   [0x80000302, 'COSA', 'Cosanta'],
   [0x80000303, 'BR', 'BR'],

@@ -1146,6 +1146,7 @@ module.exports = [
   [0x8001e240, 'SPR', 'Spectre'],
   [0x8002780b, 'APTA', 'Bloqs4Good'],
   [0x80030fb1, 'AKA', 'Akroma'],
+  [0x800310c5, 'BTR', 'Bitlayer'],
   [0x80036cb1, 'CONET', 'CONET Holesky Network'],
   [0x8003c301, 'ATS', 'ARTIS sigma1'],
   [0x8003fc0b, 'ZAMA', 'Zama'],

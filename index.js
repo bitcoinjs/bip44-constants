@@ -937,6 +937,8 @@ module.exports = [
   [0x80000773, 'BITCI', 'Bitcicoin'],
   [0x8000077f, 'VIPS', 'VIPSTARCOIN'],
   [0x80000786, 'CITY', 'City Coin'],
+  [0x8000079f, 'ESA', 'Esa'],
+  [0x800007a0, 'ESC', 'EsaCoin'],
   [0x800007a3, 'XX', 'xx coin'],
   [0x800007b9, 'XMX', 'Xuma'],
   [0x800007c0, 'TRTL', 'TurtleCoin'],

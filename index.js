@@ -898,6 +898,7 @@ module.exports = [
   [0x80000500, '', 'Kudos Setler'],
   [0x80000504, 'GLMR', 'Moonbeam'],
   [0x80000505, 'MOVR', 'Moonriver'],
+  [0x80000506, 'DSG', 'Dessage Social Protocol'],
   [0x80000512, 'WPC', 'Wpc'],
   [0x8000051c, 'WEI', 'WEI'],
   [0x80000520, 'BITS', 'Entropy'],

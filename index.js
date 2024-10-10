@@ -871,6 +871,7 @@ module.exports = [
   [0x800003f4, 'JOC', 'Japan Open Chain'],
   [0x800003f5, 'BIC', 'Beincrypto'],
   [0x800003f6, 'JOY', 'Joystream'],
+  [0x800003f7, 'ZCX', 'ZEN Exchange Token'],
   [0x800003f8, '---', 'reserved'],
   [0x800003fc, 'EVC', 'Evrice'],
   [0x800003fe, 'XRD', 'Radix DLT'],

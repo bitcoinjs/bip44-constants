@@ -1150,6 +1150,7 @@ module.exports = [
   [0x8001b207, 'KAS', 'Kaspa'],
   [0x8001d9f9, 'KLS', 'Karlsen'],
   [0x8001e240, 'SPR', 'Spectre'],
+  [0x8001ff06, 'WBT', 'WhiteBIT Coin'],
   [0x8002780b, 'APTA', 'Bloqs4Good'],
   [0x80030fb1, 'AKA', 'Akroma'],
   [0x800310c5, 'BTR', 'Bitlayer'],

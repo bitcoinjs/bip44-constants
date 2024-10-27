@@ -914,6 +914,7 @@ module.exports = [
   [0x800005f4, '', 'Taler'],
   [0x800005fd, 'BEAM', 'Beam'],
   [0x80000600, 'GAS', 'BubiChain'],
+  [0x80000604, 'ATHENA', 'Athena'],
   [0x8000060f, 'SDK', 'Sovereign SDK'],
   [0x80000613, 'APC', 'Apc Chain'],
   [0x80000650, 'ELF', 'AELF'],

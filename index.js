@@ -706,6 +706,7 @@ module.exports = [
   [0x800002c1, 'PEG', 'Pegasus Token'],
   [0x800002c2, 'LKG', 'Lionking'],
   [0x800002c3, 'MCOIN', 'Moneta Coin'],
+  [0x800002c4, '---', 'reserved'],
   [0x800002c5, 'AVAIL', 'Avail'],
   [0x800002c6, 'FURY', 'Highbury'],
   [0x800002c7, 'CHC', 'Chaincoin'],

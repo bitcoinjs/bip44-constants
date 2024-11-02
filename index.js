@@ -730,6 +730,8 @@ module.exports = [
   [0x800002db, 'BMK', 'Bitmark'],
   [0x800002de, 'DENTX', 'DENTNet'],
   [0x800002e1, 'ATOP', 'Financial Blockchain'],
+  [0x800002e2, 'BTE', 'Bitweb'],
+  [0x800002e3, 'DPC', 'Dpowcoin (DualPowCoin)'],
   [0x800002eb, 'CFG', 'Centrifuge'],
   [0x800002ee, 'XPRT', 'Persistence'],
   [0x800002f1, '', 'Age X25519 Encryption'],

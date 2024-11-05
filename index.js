@@ -1088,6 +1088,7 @@ module.exports = [
   [0x8000232e, 'BSC', 'Binance Smart Chain'],
   [0x80002645, 'NRG', 'Energi'],
   [0x800026a0, 'BTF', 'Bitcoin Faith'],
+  [0x800026f1, 'OSMI', 'Osmium'],
   [0x8000270f, 'GOD', 'Bitcoin God'],
   [0x80002710, 'FO', 'FIBOS'],
   [0x80002711, 'SPACE', 'Space'],

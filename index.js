@@ -803,6 +803,7 @@ module.exports = [
   [0x80000354, 'DSM', 'Desmos'],
   [0x80000355, 'PRCY', 'PRCY Coin'],
   [0x8000035a, 'HVH', 'HAVAH'],
+  [0x80000360, 'CVM', 'Convex'],
   [0x80000362, 'MOB', 'MobileCoin'],
   [0x80000364, 'IF', 'Infinitefuture'],
   [0x80000369, 'QUORUM', 'Quorum'],

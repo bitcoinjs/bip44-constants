@@ -694,6 +694,7 @@ module.exports = [
   [0x800002b2, 'KLV', 'KleverChain'],
   [0x800002b3, 'TNT', 'Tangle'],
   [0x800002b4, 'GTG', 'Gotigin'],
+  [0x800002b5, 'NET', 'RealityNet'],
   [0x800002b6, 'VTBC', 'VTB Community'],
   [0x800002b8, 'LUM', 'Lumos'],
   [0x800002ba, 'VEIL', 'Veil'],

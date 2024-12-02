@@ -1200,6 +1200,7 @@ module.exports = [
   [0x80776772, 'WGR', 'WGR'],
   [0x80776773, 'OBSR', 'OBServer'],
   [0x807c8fc7, 'AFS', 'ANFS'],
+  [0x805d30b6, 'OSMO', 'Osmosis'],
   [0x80e6b280, 'XDS', 'XDS'],
   [0x83adbc39, 'AQUA', 'Aquachain'],
   [0x84a2cb71, 'AZT', 'Aztecoin'],

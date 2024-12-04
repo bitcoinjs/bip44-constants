@@ -725,6 +725,7 @@ module.exports = [
   [0x800002d3, 'VOI', 'Voi'],
   [0x800002d4, 'XVC', 'Vanillacash'],
   [0x800002d5, 'MCX', 'MultiCash'],
+  [0x800002d6, 'TARA', 'Taraxa'],
   [0x800002d7, 'BLU', 'BluCrates'],
   [0x800002d8, 'BFC', 'BFC'],
   [0x800002da, 'HEALIOS', 'Tenacity'],

@@ -948,6 +948,7 @@ module.exports = [
   [0x8000076c, 'XNA', 'Neurai'],
   [0x8000076d, 'CLC', 'Classica'],
   [0x80000773, 'BITCI', 'Bitcicoin'],
+  [0x8000077e, 'BKC', 'Briskcoin'],
   [0x8000077f, 'VIPS', 'VIPSTARCOIN'],
   [0x80000786, 'CITY', 'City Coin'],
   [0x8000079f, 'ESA', 'Esa'],

@@ -1177,6 +1177,7 @@ module.exports = [
   [0x80051614, 'VALUE', 'Value Chain'],
   [0x80051615, '3333', 'Pi Value Consensus'],
   [0x80067932, 'X42', 'x42'],
+  [0x8006b6d1, '@G', 'Graphite'],
   [0x80082750, 'SCR', 'Scroll'],
   [0x800a2c2a, 'VITE', 'Vite'],
   [0x800b3206, 'ICE', 'Ice Network'],

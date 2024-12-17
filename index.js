@@ -737,6 +737,7 @@ module.exports = [
   [0x800002e3, 'DPC', 'Dpowcoin (DualPowCoin)'],
   [0x800002e4, 'MDC', 'MyDataCoin'],
   [0x800002e5, 'RIV', 'Rigvid'],
+  [0x800002e8, 'DUSK', 'Dusk'],
   [0x800002eb, 'CFG', 'Centrifuge'],
   [0x800002ee, 'XPRT', 'Persistence'],
   [0x800002f1, '', 'Age X25519 Encryption'],

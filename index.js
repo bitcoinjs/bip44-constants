@@ -757,6 +757,7 @@ module.exports = [
   [0x8000030e, 'PLCU', 'PLC Ultima'],
   [0x8000030f, 'SMARTBC', 'SMART Blockchain'],
   [0x80000310, 'SUI', 'Sui'],
+  [0x80000311, 'ULTIMA', 'ULTIMA'],
   [0x80000312, 'UIDD', 'UIDD'],
   [0x80000313, 'ACA', 'Acala'],
   [0x80000314, 'BNC', 'Bifrost'],

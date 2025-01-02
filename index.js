@@ -1109,6 +1109,7 @@ module.exports = [
   [0x8000270f, 'GOD', 'Bitcoin God'],
   [0x80002710, 'FO', 'FIBOS'],
   [0x80002711, 'SPACE', 'Space'],
+  [0x80002717, 'S', 'SONIC'],
   [0x8000277f, 'DHP', 'dHealth'],
   [0x800027f2, 'RTM', 'Raptoreum'],
   [0x80002802, 'AA', 'Arthera'],

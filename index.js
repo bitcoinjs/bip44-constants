@@ -1089,6 +1089,7 @@ module.exports = [
   [0x80002148, '---', 'reserved'],
   [0x800021e8, 'PLMNT', 'Planetmint'],
   [0x8000221c, 'BLN', 'Bullions'],
+  [0x80002222, 'ALPH', 'Alph Network'],
   [0x800022a2, 'GGX', 'Golden Gate'],
   [0x800022b6, 'GGXT', 'Golden Gate Sydney'],
   [0x800022b8, 'SBTC', 'Super Bitcoin'],

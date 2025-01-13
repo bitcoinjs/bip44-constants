@@ -730,6 +730,7 @@ module.exports = [
   [0x800002d6, 'TARA', 'Taraxa'],
   [0x800002d7, 'BLU', 'BluCrates'],
   [0x800002d8, 'BFC', 'BFC'],
+  [0x800002d9, 'DCC', 'DecentraCast'],
   [0x800002da, 'HEALIOS', 'Tenacity'],
   [0x800002db, 'BMK', 'Bitmark'],
   [0x800002dd, 'TBC', 'TBChat'],

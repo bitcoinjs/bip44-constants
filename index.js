@@ -907,6 +907,7 @@ module.exports = [
   [0x80000468, 'ETSC', 'Ethereum Social'],
   [0x80000469, 'DFI', 'DeFiChain'],
   [0x8000046a, 'DFI', 'DeFiChain EVM Network'],
+  [0x8000046d, 'MESH', 'StateMesh'],
   [0x80000471, '$DAG', 'Constellation Labs'],
   [0x80000479, 'CDY', 'Bitcoin Candy'],
   [0x80000483, 'ENJ', 'Enjin Coin'],

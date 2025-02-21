@@ -890,6 +890,7 @@ module.exports = [
   [0x800003f6, 'JOY', 'Joystream'],
   [0x800003f7, 'ZCX', 'ZEN Exchange Token'],
   [0x800003f8, '---', 'reserved'],
+  [0x800003f9, 'ZTC', 'Zenchain'],
   [0x800003fc, 'EVC', 'Evrice'],
   [0x800003fe, 'XRD', 'Radix DLT'],
   [0x800003ff, 'ONE', 'HARMONY-ONE (Legacy)'],

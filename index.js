@@ -853,6 +853,7 @@ module.exports = [
   [0x800003bb, 'LTP', 'LifetionCoin'],
   [0x800003be, '', 'KickSoccer'],
   [0x800003c0, 'VKAX', 'Vkax'],
+  [0x800003c5, 'ATLA', 'Atleta Network'],
   [0x800003c6, 'MATIC', 'Matic'],
   [0x800003c8, 'UNW', 'UNW'],
   [0x800003c9, 'QI', 'Quai Network'],

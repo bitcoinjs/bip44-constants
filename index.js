@@ -1128,6 +1128,7 @@ module.exports = [
   [0x80002ddf, 'TNKR', 'Tinkernet'],
   [0x80003039, 'IPOS', 'IPOS'],
   [0x8000312a, 'MINA', 'Mina'],
+  [0x80003232, 'ANLOG', 'Analog Timechain'],
   [0x80003333, 'BTY', 'BitYuan'],
   [0x80003334, 'YCC', 'Yuan Chain Coin'],
   [0x80003445, 'PHX', 'Phoenix'],

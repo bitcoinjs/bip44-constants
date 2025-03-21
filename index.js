@@ -981,6 +981,7 @@ module.exports = [
   [0x800007d1, 'MNP', 'MNPCoin'],
   [0x800007d2, 'MLN', 'Miraland'],
   [0x800007d3, 'ISNA', 'iSarrana'],
+  [0x800007dd, 'JKC', 'Junkcoin'],
   [0x800007df, 'TEER', 'Integritee'],
   [0x800007e1, 'KIN', 'Kin'],
   [0x800007e2, 'EOSC', 'EOSClassic'],

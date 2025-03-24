@@ -733,6 +733,7 @@ module.exports = [
   [0x800002d9, 'DCC', 'DecentraCast'],
   [0x800002da, 'HEALIOS', 'Tenacity'],
   [0x800002db, 'BMK', 'Bitmark'],
+  [0x800002dc, 'FUGA', 'Fuga token'],
   [0x800002dd, 'TBC', 'TBChat'],
   [0x800002de, 'DENTX', 'DENTNet'],
   [0x800002e1, 'ATOP', 'Financial Blockchain'],

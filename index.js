@@ -1026,6 +1026,7 @@ module.exports = [
   [0x80000bb8, 'SM', 'Stealth Message'],
   [0x80000bbb, 'LUX', 'LUX'],
   [0x80000bd6, 'HBAR', 'Hedera HBAR'],
+  [0x80000bee, 'HIVE', 'Hive Blockchain'],
   [0x80000c05, 'COS', 'Contentos'],
   [0x80000ccc, 'CCC', 'CodeChain'],
   [0x80000d10, 'PLMC', 'Polimec'],

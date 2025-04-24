@@ -903,6 +903,7 @@ module.exports = [
   [0x80000404, 'PLS', 'Pulse Coin'],
   [0x80000408, 'BTCR', 'BTCR'],
   [0x80000412, 'MFID', 'Moonfish ID'],
+  [0x8000044c, 'CROSS', 'Cross Chain'],
   [0x80000457, 'BBC', 'Big Bitcoin'],
   [0x8000045c, 'CORE', 'Core'],
   [0x80000460, 'RISE', 'RISE'],

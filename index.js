@@ -1115,6 +1115,7 @@ module.exports = [
   [0x8000232c, 'STRK', 'StarkNet'],
   [0x8000232d, 'AVAXC', 'Avalanche C-Chain'],
   [0x8000232e, 'BSC', 'Binance Smart Chain'],
+  [0x8000232f, 'SATOX', 'Satoxcoin'],
   [0x80002645, 'NRG', 'Energi'],
   [0x800026a0, 'BTF', 'Bitcoin Faith'],
   [0x800026f1, 'OSMI', 'Osmium'],

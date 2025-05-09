@@ -192,7 +192,7 @@ module.exports = [
   [0x800000bc, 'WBTC', 'World Bitcoin'],
   [0x800000bd, 'LCH', 'LiteCash'],
   [0x800000be, 'EXCL', 'ExclusiveCoin'],
-  [0x800000bf, '', 'Lynx'],
+  [0x800000bf, 'LYNX', 'Lynx'],
   [0x800000c0, 'LCC', 'LitecoinCash'],
   [0x800000c1, 'XFE', 'Feirm'],
   [0x800000c2, 'EOS', 'EOS'],

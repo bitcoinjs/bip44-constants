@@ -1043,6 +1043,7 @@ module.exports = [
   [0x80000de0, 'DEO', 'Destocoin'],
   [0x80000dec, 'DST', 'DeStream'],
   [0x80000e11, 'CY', 'Cybits'],
+  [0x80000e2e, 'EPPIE', 'Eppie'],
   [0x80000ead, 'MPC', 'Partisia Blockchain'],
   [0x80000f00, 'RED', 'ReDeFi RED'],
   [0x80000fc8, 'FC8', 'FCH Network'],

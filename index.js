@@ -1005,6 +1005,7 @@ module.exports = [
   [0x8000083d, 'SAMA', 'Exosama Network'],
   [0x80000840, 'IoTE', 'IoTE'],
   [0x80000849, 'CBTC', 'Coordinate BTC (Anduro)'],
+  [0x8000084a, 'QBTC', 'Quasar BTC (Anduro)'],
   [0x8000084d, 'BAY', 'BitBay'],
   [0x80000859, 'XRG', 'Ergon'],
   [0x80000897, 'SAMA', 'Moonsama Network'],

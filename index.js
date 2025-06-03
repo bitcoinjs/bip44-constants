@@ -1256,5 +1256,6 @@ module.exports = [
   [0xc6554557, 'MTGBP', 'MTGBP'],
   [0xc6554561, 'QFS', 'Qfs'],
   [0xc655456b, 'RWA', 'Asset Chain'],
-  [0xc6554575, 'HXC', 'HuaXia Chain']
+  [0xc6554575, 'HXC', 'HuaXia Chain'],
+  [0xc655457f, 'AME', 'AME Chain']
 ]

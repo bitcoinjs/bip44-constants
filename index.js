@@ -736,6 +736,7 @@ module.exports = [
   [0x800002dc, 'FUGA', 'Fuga token'],
   [0x800002dd, 'TBC', 'TBChat'],
   [0x800002de, 'DENTX', 'DENTNet'],
+  [0x800002df, 'NBY', 'Neobytes'],
   [0x800002e1, 'ATOP', 'Financial Blockchain'],
   [0x800002e2, 'BTE', 'Bitweb'],
   [0x800002e3, 'DPC', 'Dpowcoin (DualPowCoin)'],

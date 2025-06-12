@@ -743,6 +743,7 @@ module.exports = [
   [0x800002e4, 'MDC', 'MyDataCoin'],
   [0x800002e5, 'RIV', 'Rigvid'],
   [0x800002e6, 'LTO', 'LTO Network'],
+  [0x800002e7, 'LKY', 'LuckyCoin'],
   [0x800002e8, 'DUSK', 'Dusk'],
   [0x800002eb, 'CFG', 'Centrifuge'],
   [0x800002ee, 'XPRT', 'Persistence'],

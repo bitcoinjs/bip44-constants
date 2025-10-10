@@ -13,6 +13,7 @@ permissions:
 jobs:
   publish-npm:
     runs-on: ubuntu-latest
+    environment: 'Publish NPM'
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1

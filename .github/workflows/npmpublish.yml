@@ -6,6 +6,10 @@ on:
     # Run once per day at 02:42 UTC
     - cron:  '42 2 * * *'
 
+permissions:
+  id-token: write
+  contents: read
+
 jobs:
   publish-npm:
     runs-on: ubuntu-latest
@@ -28,7 +32,5 @@ jobs:
       - run: echo "${{secrets.deploy_key}}" > ~/.ssh/id_rsa
       - run: chmod 600 ~/.ssh/id_rsa
       - run: npm publish
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.npm_auto_key }}
       - run: git remote add sshorigin git@github.com:bitcoinjs/bip44-constants.git
       - run: git push sshorigin master --tags

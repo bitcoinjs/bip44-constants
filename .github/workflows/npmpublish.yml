@@ -15,10 +15,10 @@ jobs:
     runs-on: ubuntu-latest
     environment: 'Publish NPM'
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v6
         with:
-          node-version: 12
+          node-version: 24
           registry-url: https://registry.npmjs.org/
       - run: npm install && rm package-lock.json
       - run: node update.js > new_index.js

@@ -827,6 +827,7 @@ module.exports = [
   [0x80000353, 'FRECO', 'Freco'],
   [0x80000354, 'DSM', 'Desmos'],
   [0x80000355, 'PRCY', 'PRCY Coin'],
+  [0x80000358, 'TB', 'TBCoin'],
   [0x8000035a, 'HVH', 'HAVAH'],
   [0x8000035c, 'XBIT', 'XBIT Coin'],
   [0x80000360, 'CVM', 'Convex'],

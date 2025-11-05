@@ -1231,6 +1231,7 @@ module.exports = [
   [0x800310c5, 'BTR', 'Bitlayer'],
   [0x80036cb1, 'CONET', 'CONET Holesky Network'],
   [0x8003c301, 'ATS', 'ARTIS sigma1'],
+  [0x8003d48e, 'AUTOX', 'Autox Coin'],
   [0x8003fc0b, 'ZAMA', 'Zama'],
   [0x8004cb2f, 'PI', 'Pi Network'],
   [0x80051614, 'VALUE', 'Value Chain'],

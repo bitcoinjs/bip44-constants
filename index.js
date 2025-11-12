@@ -1295,5 +1295,6 @@ module.exports = [
   [0xc6554561, 'QFS', 'Qfs'],
   [0xc655456b, 'RWA', 'Asset Chain'],
   [0xc6554575, 'HXC', 'HuaXia Chain'],
-  [0xc655457f, 'AME', 'AME Chain']
+  [0xc655457f, 'AME', 'AME Chain'],
+  [0xef747461, 'ATTO', 'Atto']
 ]

@@ -1288,6 +1288,7 @@ module.exports = [
   [0x80abcdef, 'LBR', '0L'],
   [0x8134afd5, 'ROH', 'Rooch'],
   [0x8134d82e, 'NLK', 'NuLinkCoin'],
+  [0x821f3680, 'AXX', 'AtlasX Chain'],
   [0x8e4f524b, 'ZORK', 'Zork Network'],
   [0x90000143, 'MON', 'Monad'],
   [0xa4465644, 'FVDC', 'ForumCoin'],
